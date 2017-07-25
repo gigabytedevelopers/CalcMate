@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string msgid="7122495413742976492" name="advanced">"Avanceret panel"</string>
+    <string msgid="8095131950334945205" name="app_name">"Lommeregner"</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string msgid="7691469861698059753" name="basic">"Grundlæggende panel"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binær</string>
+    <string msgid="8103610981407459768" name="clear">"RYD"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Ryd historik"</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">Grafer vil automatisk vises her. Gå til det avancerede panel og byg en funktion vha. X og Y.</string>
+    <string name="cling_graph_title">Graf</string>
+    <string name="cling_hex_msg">Skift mellem decimal (dec), binært (bin), og heksadecimalt (hex).\n\nAdvarsel: Hvis du mener, at du får forkerte resultater, er du formentlig på det forkerte grundtal. Standarden er decimal.</string>
+    <string name="cling_hex_title">Skift grundtal</string>
+    <string name="cling_matrix_msg">Tryk her for at bygge og løse matricer.</string>
+    <string name="cling_matrix_title">Matricer</string>
+    <string name="cling_simple_msg">Glid til venstre og højre for at tilgå mere indhold. Unødvendige sider kan slås fra i Indstillinger.</string>
+    <string name="cling_simple_title">Velkommen</string>
+    <string name="copy">Kopiér \"%s\"</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Kryds</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimal</string>
+    <string name="degrees">GRD</string>
+    <string msgid="6248896117422989693" name="del">"SLET"</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Determinant</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="dotProduct">Prik</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="easter_egg">Magikarp brugte Splash, men intet skete.</string>
+    <string name="eigenvalue">Egen</string>
+    <string name="eigenvalueDesc">Egenværdi</string>
+    <string msgid="9197457880925804499" name="error">"Fejl"</string>
+    <string name="function">Funktionspanel</string>
+    <string name="graph">Grafpanel</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Hexadecimal</string>
+    <string name="hexPanel">Hexpanel</string>
+    <string name="hideHistory">Skjul Historik</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">Matrixpanel</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus_col">-Kolonne</string>
+    <string name="minus_row">-Række</string>
+    <string name="mod">mod</string>
+    <string name="next">Næste</string>
+    <string name="plus_col">+Kolonne</string>
+    <string name="plus_row">+Række</string>
+    <string name="pref_about">Om</string>
+    <string name="pref_actions">Handlinger</string>
+    <string name="pref_panels">Paneler</string>
+    <string name="pref_units">Enheder</string>
+    <string name="radians">RAD</string>
+    <string name="remove_from_history">Fjern fra historik</string>
+    <string name="returnToBasic">Vend tilbage til det grundlæggende panel</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Indstillinger</string>
+    <string name="showHistory">Vis Historik</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Løs</string>
+    <string name="solveForX">Løs for X</string>
+    <string name="solveForY">Løs for Y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Tekst er kopieret."</string>
+    <string name="trigUnits">Trig. enheder</string>
+</resources>

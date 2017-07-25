@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ADVANCED" type="bool">true</item>
+    <item name="BASIC" type="bool">true</item>
+    <item name="CLICK_TO_OPEN_HISTORY" type="bool">false</item>
+    <item name="DIGIT_GROUPING" type="bool">true</item>
+    <item name="FUNCTION" type="bool">false</item>
+    <item name="GRAPH" type="bool">true</item>
+    <item name="HEX" type="bool">true</item>
+    <item name="MATRIX" type="bool">true</item>
+    <item name="RETURN_TO_BASIC" type="bool">false</item>
+    <item name="USE_RADIANS" type="bool">true</item>
+    <color name="accent">#FFFFFF</color>
+    <color name="background">#FF000000</color>
+    <color name="button_hint_text">#474747</color>
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="defaultThemeColor">#808080</color>
+    <color name="digitbackground">#FFF</color>
+    <color name="edit_text_color">#FF000000</color>
+    <color name="graph_color">#31B6E7</color>
+    <color name="history_input">#FF000000</color>
+    <color name="history_result">#FF000000</color>
+    <color name="magic_flame">#bdbdbd</color>
+    <color name="mainbackground">#FFFFFF</color>
+    <color name="maindigitback">#424242</color>
+    <color name="maindigitbacks">#303030</color>
+    <color name="pressed_color">#303030</color>
+    <color name="primary">#73D79C</color>
+    <color name="primary_dark">#66CC99</color>
+    <color name="primary_darker">#5BB387</color>
+    <color name="ripple">#bdbdbd</color>
+    <declare-styleable name="ScrollableDisplay"><attr format="dimension" name="max_height"/></declare-styleable>
+    <dimen name="app_defaultsize_h">200.0dip</dimen>
+    <dimen name="app_defaultsize_w">500.0dip</dimen>
+    <dimen name="app_minimumsize_h">200dp</dimen>
+    <dimen name="app_minimumsize_w">300dp</dimen>
+    <dimen name="btn_clear_text_size">30sp</dimen>
+    <dimen name="btn_digit_text_size">35sp</dimen>
+    <dimen name="btn_function_text_size">30sp</dimen>
+    <dimen name="btn_operation_text_size">35sp</dimen>
+    <dimen name="button_hint_exponent_jump">10dp</dimen>
+    <dimen name="button_hint_offset_x">10dp</dimen>
+    <dimen name="button_hint_offset_y">20dp</dimen>
+    <dimen name="clingPunchThroughGraphicCenterRadius">94dp</dimen>
+    <dimen name="cling_text_block_offset_x">0dp</dimen>
+    <dimen name="cling_text_block_offset_y">0dp</dimen>
+    <dimen name="display_text_size">35sp</dimen>
+    <dimen name="folderClingMarginTop">20dp</dimen>
+    <dimen name="history_bar_height">25dp</dimen>
+    <dimen name="matrix_edit_text_padding">17dp</dimen>
+    <dimen name="max_display_height">200dp</dimen>
+    <dimen name="min_display_height">150dp</dimen>
+    <dimen name="small_display_text_size">20sp</dimen>
+    <integer name="max_digits">14</integer>
+    <string name="A" translatable="false">A</string>
+    <string name="B" translatable="false">B</string>
+    <string name="C" translatable="false">C</string>
+    <string name="D" translatable="false">D</string>
+    <string name="E" translatable="false">E</string>
+    <string name="F" translatable="false">F</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="about">About</string>
+    <string name="about_advanced_main">From time to time, you might need to dive into more complex calculations and sad news, only a small percentage of Calculator apps out there have the ability to do this. This is where CalcMate comes in handy, allowing you to obtain trigonometric ratios of  any angle such as Sine, Cosine and Tangent, it contains a couple of other useful functions such as Log, Exponential, Percentage, Square Roots, etc. At the bottom right of this panel, you can define the Value of X and Y axis for your graph equations, take for example: 5X-6Y=8 (this is a typical simultaneous equation to plot a graph), all these are the major functions of this panel (The Advanced Panel).</string>
+    <string name="about_basic_main">Just as the title states, this is the panel where simple calculations like addition, subtraction, multiplication and division can be done! Designed to carryout elementary calculations.</string>
+    <string name="about_graph_main">This is the most confusing but mind blowing part of CalcMate. This is the section that graphically represents your mathematical equations (basically SIMULTANEOUS EQUATIONS). As we explained how to define the values of X and Y axis from the advanced panel, take for example: 5X-6Y=8, mathematically, this simultaneous equation when plotted on a graph should show a line that slops upwards from the X-axis towards the Y-axis, after writing this equation, swipe back to this panel and wait a sec for the graphical representation!</string>
+    <string name="about_hex_main">Tutorial coming soon.......</string>
+    <string name="about_main">It\'s time to rethink what your calculator can do. CalcMate is your everyday calculation assistant. Developed to help you carry out complex calculations without needing to reach for a pen!</string>
+    <string name="about_matrix_main">Yes! For the Statistics Students, this is the panel specifically made for you guys! We understand that dealing with large quantities of numeric data can prove to be quite an involving task for everyone (not just data analysts). However, having been keen towards solving problems, we made the Matrix Panel, this panel lets you carryout basic calculations on matrices such as the addition, subtraction and general multiplication of matrices. This panel makes us standout unique from our peers, something you wouldn\'t be able to find in any other calculator.</string>
+    <string name="advanced">Advanced Panel</string>
+    <string name="advanced_panel_text">The Advanced Panel</string>
+    <string name="app_name">CalcMate</string>
+    <string name="app_name_version">CalcMate 1.0</string>
+    <string name="application_copyright">\u00A9 Copyright 2017 \nGigabyte Developers Incorporated</string>
+    <string name="application_version" translatable="false">v1.0</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string name="basic">Basic Panel</string>
+    <string name="basic_panel_text">The Basic Panel</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binary</string>
+    <string name="clear">CLEAR</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clickToOpenHistory">Click to Open History</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">Graphs will automatically show up here. Go to the advanced panel and build a function using X and Y.</string>
+    <string name="cling_graph_title">Graph</string>
+    <string name="cling_hex_msg">Switch between decimal (dec), binary (bin), and hexadecimal (hex).\n\nWarning: If you believe you\'re getting bad results, you\'re probably in the wrong base. The default is decimal.</string>
+    <string name="cling_hex_title">Change bases</string>
+    <string name="cling_matrix_msg">Tap here to start building and solving matrices.</string>
+    <string name="cling_matrix_title">Matrices</string>
+    <string name="cling_simple_msg">Slides left and right to access more content. Unnecessary pages can be disabled in Settings.</string>
+    <string name="cling_simple_title">Welcome</string>
+    <string name="coma" translatable="false">,</string>
+    <string name="copy">Copy \'%s\'</string>
+    <string name="cos">cos</string>
+    <string name="crossProduct">Cross</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimal</string>
+    <string name="degrees">DEG</string>
+    <string name="del">DELETE</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Determinant</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="digitGrouping">Number Grouping</string>
+    <string name="div">\u00f7</string>
+    <string name="dot">.</string>
+    <string name="dotProduct">Dot</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string name="e">e</string>
+    <string name="easter_egg">Gigabyte used Splash but nothing happened.</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="eigenvalueDesc">Eigenvalues</string>
+    <string name="enter">\u2193</string>
+    <string name="equal">=</string>
+    <string name="error">Error</string>
+    <string name="factorial">!</string>
+    <string name="feedback">Give Us a Feedback</string>
+    <string name="feedback_email_address">gigabytedevelopers@gmail.com</string>
+    <string name="feedback_email_message">Feedback About CalcMate</string>
+    <string name="feedback_email_subject">Feedback About CalcMate</string>
+    <string name="feedback_email_title">CalcMate Feedback</string>
+    <string name="function">Function panel</string>
+    <string name="graph">Graph Panel</string>
+    <string name="graph_panel_text">The Graph Panel</string>
+    <string name="help">Help</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Hexadecimal</string>
+    <string name="hexPanel">Hex Panel</string>
+    <string name="hex_panel_text">The Hex Panel</string>
+    <string name="hideHistory">Hide History</string>
+    <string name="i" translatable="false">i</string>
+    <string name="integral" translatable="false">\u222B</string>
+    <string name="leftParen">(</string>
+    <string name="lg">log</string>
+    <string name="ln">ln</string>
+    <string name="lock">Lock Page</string>
+    <string name="made_with_love">Made With Love</string>
+    <string name="matrix">Matrix Panel</string>
+    <string name="matrix_inverse" translatable="false">-1</string>
+    <string name="matrix_new" translatable="false">[ ]</string>
+    <string name="matrix_panel_text">The Matrix Panel</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus">\u2212</string>
+    <string name="minus_col">-Col</string>
+    <string name="minus_row">-Row</string>
+    <string name="mod">mod</string>
+    <string name="mul">\u00d7</string>
+    <string name="next">Move</string>
+    <string name="parentheses" translatable="false">( )</string>
+    <string name="percentage" translatable="false">%</string>
+    <string name="pi">\u03c0</string>
+    <string name="plus">+</string>
+    <string name="plus_col">+Col</string>
+    <string name="plus_row">+Row</string>
+    <string name="power">^</string>
+    <string name="pref_about">About</string>
+    <string name="pref_actions">Actions</string>
+    <string name="pref_panels">Panels</string>
+    <string name="pref_units">Units</string>
+    <string name="radians">RAD</string>
+    <string name="rate">Rate CalcMate on Play Store</string>
+    <string name="remove_from_history">Remove from History</string>
+    <string name="returnToBasic">Return to the Basic Panel</string>
+    <string name="rightParen">)</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share CalcMate to Friends</string>
+    <string name="showHistory">Show History</string>
+    <string name="sign" translatable="false">+/\u2212</string>
+    <string name="sin">sin</string>
+    <string name="solve">Solve</string>
+    <string name="solveForX">Solve for X</string>
+    <string name="solveForY">Solve for Y</string>
+    <string name="sqrt">\u221a</string>
+    <string name="tan">tan</string>
+    <string name="text_copied_toast">Text Copied.</string>
+    <string name="trigUnits">Trig Units</string>
+    <string name="unlock">Unlock Page</string>
+    <style name="ButtonAppTheme" parent="">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="ClingButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">15dp</item>
+        <item name="android:paddingLeft">35dp</item>
+        <item name="android:paddingRight">35dp</item>
+        <item name="android:text">@string/cling_dismiss</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/cling_button_bg</item>
+    </style>
+    <style name="ClingText">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+    <style name="ClingTitleText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:textSize">23sp</item>
+        <item name="android:textColor">#49C0EC</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2.0</item>
+    </style>
+    <style name="Theme.Calculator" parent="android:Theme.Holo">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="Theme.Settings.Calculator" parent="android:Theme.Holo">
+        <item name="android:windowBackground">@color/mainbackground</item>
+        <item name="android:textColor">@color/background</item>
+    </style>
+    <style name="Themes.Calculator" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@color/mainbackground</item>
+    </style>
+    <style name="btn_clear">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+       <item name="android:textSize">@dimen/btn_clear_text_size</item>
+    </style>
+    <style name="btn_digit_cell_style">
+       <item name="android:layout_width">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:gravity">center</item>
+       <item name="android:background">@drawable/btn_digit</item>
+       <item name="android:textSize">@dimen/btn_digit_text_size</item>
+    </style>
+    <style name="btn_function_cell_style">
+       <item name="android:layout_width">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textSize">@dimen/btn_function_text_size</item>
+    </style>
+    <style name="btn_operation_cell_style">
+       <item name="android:layout_width">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:gravity">center</item>
+       <item name="android:background">@drawable/btn_function</item>
+       <item name="android:textSize">@dimen/btn_operation_text_size</item>
+    </style>
+    <style name="btn_row_style">
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:layout_height">0dip</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="button_half_style" parent="button_style">
+       <item name="android:textSize">25sp</item>
+    </style>
+    <style name="button_small_style" parent="button_style">
+       <item name="android:textSize">30sp</item>
+    </style>
+    <style name="button_style">
+       <item name="android:textSize">35sp</item>
+        <item name="android:windowBackground">@color/maindigitback</item>
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:focusable">false</item>
+       <item name="android:background">@drawable/btn_function</item>
+        <item name="android:layout_marginLeft">-2dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:layout_marginTop">-2dp</item>
+        <item name="android:layout_marginBottom">-2dp</item>
+    </style>
+    <style name="digit_button_style">
+        <item name="android:textSize">35sp</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_marginLeft">-2dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:layout_marginTop">-2dp</item>
+        <item name="android:layout_marginBottom">-2dp</item>
+        <item name="android:paddingEnd">0dp</item>
+        <item name="android:paddingStart">-2dp</item>
+        <item name="android:background">@drawable/btn_digit</item>
+    </style>
+    <style name="display_style">
+       <item name="android:textSize">@dimen/display_text_size</item>
+       <item name="android:inputType">text|textNoSuggestions</item>
+       <item name="android:gravity">right|center_horizontal</item>
+       <item name="android:layout_gravity">right|center_horizontal</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:background">@color/mainbackground</item>
+       <item name="android:maxLines">1</item>
+       <item name="android:scrollbars">none</item>
+       <item name="android:scrollHorizontally">true</item>
+       <item name="android:layout_width">wrap_content</item>
+       <item name="android:layout_weight">1</item>
+       <item name="android:layout_height">match_parent</item>
+       <item name="android:paddingTop">0dp</item>
+       <item name="android:paddingLeft">0dp</item>
+       <item name="android:paddingRight">20dp</item>
+       <item name="android:paddingBottom">0dp</item>
+       <item name="max_height">@dimen/max_display_height</item>
+    </style>
+</resources>

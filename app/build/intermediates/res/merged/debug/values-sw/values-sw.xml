@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7122495413742976492" name="advanced">"Paneli pevu"</string>
+    <string msgid="8095131950334945205" name="app_name">"Kikokotoo"</string>
+    <string msgid="7691469861698059753" name="basic">"Paneli msingi"</string>
+    <string msgid="8103610981407459768" name="clear">"FUT"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Futa historia"</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string msgid="6248896117422989693" name="del">"FUTA"</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string msgid="9197457880925804499" name="error">"Hitilafu"</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"Kwenye"</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Maandishi yamenakiliwa."</string>
+</resources>

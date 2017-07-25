@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string name="solveForX">הפתרון עבור X</string>
+    <string name="solveForY">הפתרון עבור Y</string>
+    <string name="mod">mod</string>
+    <string name="matrix">מטריצה</string>
+    <string name="graph">גרף</string>
+    <string name="function">פונקציה</string>
+    <string name="hexPanel">הקס</string>
+    <string name="copy">העתק \"%s\"</string>
+    <string name="remove_from_history">הסר מההיסטוריה</string>
+    <string name="showHistory">הצג הסטוריה</string>
+    <string name="hideHistory">הסתר הסטוריה</string>
+    <string name="settings">הגדרות</string>
+    <string name="determinant">Det</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="solve">פתרון</string>
+    <string name="dotProduct">Dot</string>
+    <string name="crossProduct">Cross</string>
+    <string name="determinantDesc">דטרמיננטה</string>
+    <string name="eigenvalueDesc">ערכים עצמיים</string>
+    <string name="hex">Hex</string>
+    <string name="bin">Bin</string>
+    <string name="dec">Dec</string>
+    <string name="hexDesc">הקסדצימאלי</string>
+    <string name="binDesc">בינארי</string>
+    <string name="decDesc">דצימאלי</string>
+    <string name="pref_about">אודות</string>
+    <string name="returnToBasic">חזרה לחלונית בסיסית</string>
+</resources>

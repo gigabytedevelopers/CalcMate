@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string msgid="7122495413742976492" name="advanced">"Panel zaawansowany"</string>
+    <string msgid="8095131950334945205" name="app_name">"Kalkulator"</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string msgid="7691469861698059753" name="basic">"Panel podstawowy"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binarny</string>
+    <string msgid="8103610981407459768" name="clear">"CZYŚĆ"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Wyczyść historię"</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">Wykres zostanie wyświetlony tutaj automatycznie. W panelu zaawansowanym możesz zbudować funkcje, używając X i Y.</string>
+    <string name="cling_graph_title">Wykres</string>
+    <string name="cling_hex_msg">Przełączaj między systemem dziesiętnym (dec), binarnym (bin) i heksadecymalnym (hex).\n\nUwaga: Jeżeli uważasz, że otrzymujesz złe wyniki, prawdopodobnie używasz złego systemu. Systemem domyślnym jest dziesiętny.</string>
+    <string name="cling_hex_title">Zmień system</string>
+    <string name="cling_matrix_msg">Naciśnij tutaj by rozpocząć budowę i rozwiązywanie macierzy.</string>
+    <string name="cling_matrix_title">Macierze</string>
+    <string name="cling_simple_msg">Przeciągnij w prawo lub w lewo by zobaczyć więcej. Zbędne panele mogą zostać wyłączone w Ustawieniach.</string>
+    <string name="cling_simple_title">Witaj</string>
+    <string name="copy">Kopiuj \'%s\'</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Krzyżyk</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Dziesiętny</string>
+    <string name="degrees">DEG</string>
+    <string msgid="6248896117422989693" name="del">"USUŃ"</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Wyznacznik</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="dotProduct">Kropka</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="easter_egg">Magikarp użył Chlupania, ale nic się nie stało.</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="eigenvalueDesc">Wartość własna</string>
+    <string msgid="9197457880925804499" name="error">"Błąd"</string>
+    <string name="function">Panel funkcji</string>
+    <string name="graph">Panel wykresu</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Heksadecymalny</string>
+    <string name="hexPanel">Panel heksów</string>
+    <string name="hideHistory">Ukryj historię</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">Panel macierzy</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus_col">-Col</string>
+    <string name="minus_row">-Row</string>
+    <string name="next">Dalej</string>
+    <string name="plus_col">+Col</string>
+    <string name="plus_row">+Row</string>
+    <string name="pref_about">O kalkulatorze</string>
+    <string name="pref_actions">Akcje</string>
+    <string name="pref_panels">Panele</string>
+    <string name="pref_units">Jednostki</string>
+    <string name="radians">RAD</string>
+    <string name="remove_from_history">Usuń z historii</string>
+    <string name="returnToBasic">Wróć do podstawowego panelu</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Ustawienia</string>
+    <string name="showHistory">Pokaż historię</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Rozwiąż</string>
+    <string name="solveForX">Rozwiąż dla X</string>
+    <string name="solveForY">Rozwiąż dla Y</string>
+    <string msgid="7957459816738554960" name="tan">"tg"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Tekst został skopiowany."</string>
+    <string name="trigUnits">Jednostki trygonometryczne</string>
+</resources>

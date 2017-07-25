@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <color name="magic_flame">#bdbdbd</color>
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="button_hint_text">#474747</color>
+    <color name="pressed_color">#303030</color>
+    <color name="edit_text_color">#FF000000</color>
+    <color name="history_input">#FF000000</color>
+    <color name="history_result">#FF000000</color>
+    <color name="background">#FF000000</color>
+    <color name="digitbackground">#FFF</color>
+    <color name="graph_color">#31B6E7</color>
+    <color name="mainbackground">#FFFFFF</color>
+    <color name="primary">#73D79C</color>
+    <color name="ripple">#bdbdbd</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="primary_dark">#66CC99</color>
+    <color name="primary_darker">#5BB387</color>
+    <color name="maindigitback">#424242</color>
+    <color name="maindigitbacks">#303030</color>
+    <color name="defaultThemeColor">#808080</color>
+    <!-- <color name="btn_keyboard_key_light_normal_holo">#888888</color> -->
+</resources>

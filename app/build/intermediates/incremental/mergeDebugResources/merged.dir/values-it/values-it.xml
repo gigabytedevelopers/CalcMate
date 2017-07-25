@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string msgid="7122495413742976492" name="advanced">"Pannello avanzato"</string>
+    <string msgid="8095131950334945205" name="app_name">"Calcolatrice"</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string msgid="7691469861698059753" name="basic">"Pannello base"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binario</string>
+    <string msgid="8103610981407459768" name="clear">"CANC"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Cancella cronologia"</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">I grafici verranno automaticamente visualizzati qui. Andate al pannello avanzato e costruire una funzione che utilizza X e Y.</string>
+    <string name="cling_graph_title">Grafico</string>
+    <string name="cling_hex_msg">Passaggio tra decimale (dec), binario (bin), e esadecimale (hex).\n\nAttenzione:Se pensi di ottenere risultati errati, probabilmente sei nella base sbagliata. Il valore predefinito è decimale.</string>
+    <string name="cling_hex_title">Cambia basi</string>
+    <string name="cling_matrix_msg">Toccare qui per iniziare a costruire e risolvere matrici.</string>
+    <string name="cling_matrix_title">Matrici</string>
+    <string name="cling_simple_msg">Scorrere verso sinistra e verso destra per accedere a più contenuti. Le pagine non necessarie possono essere disattivate nelle impostazioni.</string>
+    <string name="cling_simple_title">Benvenuto</string>
+    <string name="copy">Copia \"%s\"</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Vett.</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimale</string>
+    <string name="degrees">DEG</string>
+    <string msgid="6248896117422989693" name="del">"ELIMINA"</string>
+    <string name="determinant">Det.</string>
+    <string name="determinantDesc">Determinante</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="dotProduct">Scal.</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string msgid="1377847800971731483" name="e">"E"</string>
+    <string name="easter_egg">Magikarp usa Splash ma non succede nulla!</string>
+    <string name="eigenvalue">Autov.</string>
+    <string name="eigenvalueDesc">Autovalori</string>
+    <string msgid="9197457880925804499" name="error">"Errore"</string>
+    <string name="function">Pannello funzioni</string>
+    <string name="graph">Pannello grafici</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Esadecimale</string>
+    <string name="hexPanel">Pannello esadecimale</string>
+    <string name="hideHistory">Nascondi cronologia</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">Pannello matrici</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus_col">-Col.</string>
+    <string name="minus_row">-Righe</string>
+    <string name="mod">mod</string>
+    <string name="next">Prossimo</string>
+    <string name="plus_col">+Col.</string>
+    <string name="plus_row">+Righe</string>
+    <string name="pref_about">Info</string>
+    <string name="pref_actions">Azioni</string>
+    <string name="pref_panels">Panneli</string>
+    <string name="pref_units">Unità</string>
+    <string name="radians">RAD</string>
+    <string name="remove_from_history">Rimuovi dalla cronologia</string>
+    <string name="returnToBasic">Ritorna al pannello base</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Impostazioni</string>
+    <string name="showHistory">Mostra cronologia</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Risolvi</string>
+    <string name="solveForX">Risolvi in X</string>
+    <string name="solveForY">Risolvi in Y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Testo copiato."</string>
+    <string name="trigUnits">Unità trigonometriche</string>
+</resources>

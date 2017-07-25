@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="button_style">
+        <item name="android:textSize">35sp</item>
+        <item name="android:windowBackground">@color/maindigitback</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:focusable">false</item>
+        <item name="android:background">@drawable/btn_function</item>
+        <item name="android:layout_marginLeft">-2dp</item>
+        <item name="android:layout_marginRight">-2dp</item>
+        <item name="android:layout_marginTop">-2dp</item>
+        <item name="android:layout_marginBottom">-2dp</item>
+        <item name="android:paddingEnd">-2dp</item>
+        <item name="android:paddingStart">-2dp</item>
+        <item name="android:elevation">0dp</item>
+    </style>
+
+    <style name="digit_button_style">
+        <item name="android:textSize">35sp</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_marginLeft">-2dp</item>
+        <item name="android:layout_marginRight">-2dp</item>
+        <item name="android:layout_marginTop">-2dp</item>
+        <item name="android:layout_marginBottom">-2dp</item>
+        <item name="android:paddingEnd">-2dp</item>
+        <item name="android:paddingStart">-2dp</item>
+        <item name="android:elevation">0dp</item>
+        <item name="android:background">@drawable/btn_digit</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="android:Theme.Material.Light">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:actionBarStyle">@style/MyActionBarTheme</item>
+        <item name="android:colorPrimary">@color/primary_darker</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+    </style>
+
+    <style name="Themes.Calculator" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/mainbackground</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_darker</item>
+    </style>
+
+    <style name="MyActionBarTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:background">@color/mainbackground</item>
+    </style>
+
+    <style name="Theme.Settings.Calculator" parent="android:Theme.Material.Light">
+        <item name="android:windowBackground">@color/mainbackground</item>
+        <item name="android:colorPrimary">@color/primary</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/accent</item>
+        <item name="android:colorAccent">@color/primary</item>
+        <item name="android:textColor">@color/background</item>
+    </style>
+</resources>

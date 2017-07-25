@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string msgid="7122495413742976492" name="advanced">"Funciones avanzadas"</string>
+    <string msgid="8095131950334945205" name="app_name">"Calculadora"</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sen^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string msgid="7691469861698059753" name="basic">"Funciones básicas"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binario</string>
+    <string msgid="8103610981407459768" name="clear">"BORRAR"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Borrar historial"</string>
+    <string name="cling_dismiss">Aceptar</string>
+    <string name="cling_graph_msg">Las gráficas aparecerán aquí automáticamente. Construye una función utilizando X e Y dentro de la página de funciones avanzadas.</string>
+    <string name="cling_graph_title">Gráficas</string>
+    <string name="cling_hex_msg">Cambiar entre decimal (dec), binario (bin) y hexadecimal (hex).\n\nAviso: Si consideras que el resultado de alguna operación es incorrecto, seguramente te encuentras en una base distinta. Por defecto es decimal.</string>
+    <string name="cling_hex_title">Cambiar base</string>
+    <string name="cling_matrix_msg">Tocar aquí para comenzar a construir y resolver matrices.</string>
+    <string name="cling_matrix_title">Matrices</string>
+    <string name="cling_simple_msg">Deslizar a izquierda o derecha para acceder a más contenidos. Las páginas innecesarias se pueden desactivar en Ajustes.</string>
+    <string name="cling_simple_title">Bienvenido</string>
+    <string name="copy">\u00AB%s\u00BB copiado</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">\nProd. Vectorial\n</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimal</string>
+    <string name="degrees">DEG</string>
+    <string msgid="6248896117422989693" name="del">"BORRAR"</string>
+    <string name="determinant">Determ</string>
+    <string name="determinantDesc">Determinante</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="digitGrouping">Agrupar dígitos</string>
+    <string name="dotProduct">\nProd. Escalar\n</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="easter_egg">Magikarp salpicó, pero no ocurrió nada.</string>
+    <string name="eigenvalue">Autoval</string>
+    <string name="eigenvalueDesc">Autovalores</string>
+    <string msgid="9197457880925804499" name="error">"Error"</string>
+    <string name="function">Funciones</string>
+    <string name="graph">Gráficas</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Hexadecimal</string>
+    <string name="hexPanel">Dec/Bin/Hex</string>
+    <string name="hideHistory">Ocultar historial</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="lock">Bloquear página</string>
+    <string name="matrix">Matrices</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus_col">Col-</string>
+    <string name="minus_row">Fil-</string>
+    <string name="mod">mod</string>
+    <string name="next">Sig.</string>
+    <string name="plus_col">Col+</string>
+    <string name="plus_row">Fil+</string>
+    <string name="pref_about">Acerca de</string>
+    <string name="pref_actions">Acciones</string>
+    <string name="pref_panels">Paneles</string>
+    <string name="pref_units">Unidades</string>
+    <string name="radians">RAD</string>
+    <string name="remove_from_history">Borrar del historial</string>
+    <string name="returnToBasic">Volver a funciones básicas</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Ajustes</string>
+    <string name="showHistory">Mostrar historial</string>
+    <string msgid="6793866152659175277" name="sin">"sen"</string>
+    <string name="solve">Resolv</string>
+    <string name="solveForX">Solución para X</string>
+    <string name="solveForY">Solución para Y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Texto copiado"</string>
+    <string name="trigUnits">Uds. trigonométricas</string>
+    <string name="unlock">Desbloquear página</string>
+</resources>

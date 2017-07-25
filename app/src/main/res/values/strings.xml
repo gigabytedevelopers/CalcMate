@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Application name -->
+    <string name="app_name">CalcMate</string>
+    <string name="app_name_version">CalcMate 1.0</string>
+    <!-- If there is a syntax error in the user entered calculation, an error dialog will appear.  This is the title. -->
+    <string name="error">Error</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit0">0</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit1">1</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit2">2</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit3">3</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit4">4</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit5">5</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit6">6</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit7">7</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit8">8</string>
+    <!-- Displayed numbers for the digit buttons -->
+    <string name="digit9">9</string>
+    <!-- Button name on screen to delete the last entered digit or operator -->
+    <string name="del">DELETE</string>
+    <!-- Button name on screen to clear the entire calculation field. [CHAR LIMIT=6] -->
+    <string name="clear">CLEAR</string>
+    <!-- Do not translate. Unicode division sign; don't translate. Displayed as button on screen. -->
+    <string name="div">\u00f7</string>
+    <!-- Do not translate. Unicode multiplication sign; don't translate. Displayed as button on screen. -->
+    <string name="mul">\u00d7</string>
+    <!-- Do not translate. Plus sign, displayed as button on screen -->
+    <string name="plus">+</string>
+    <!-- Do not translate. Unicode minus sign; don't translate. Displayed as button on screen. -->
+    <string name="minus">\u2212</string>
+    <!-- Do not translate. Decimal point; don't translate. Displayed as button on screen. -->
+    <string name="dot">.</string>
+    <!-- Do not translate. Equal sign; don't translate. Displayed as button on screen. -->
+    <string name="equal">=</string>
+    <!-- Do not translate. Down arrow; don't translate. Displayed as button on screen. -->
+    <string name="enter">\u2193</string>
+    <!-- Displayed on buttons on screen for the sin function. -->
+    <string name="sin">sin</string>
+    <!-- Do not translate. What we replace translated SIN with for calculating sin.-->
+
+    <!-- Displayed on buttons on screen for the cos function. -->
+    <string name="cos">cos</string>
+    <!-- Do not translate. What we replace translated COS with for calculating cos. -->
+
+    <!-- Displayed on buttons on screen for the tan function. -->
+    <string name="tan">tan</string>
+    <!-- Do not translate. What we replace translated TAN with for calculating tan. -->
+
+    <!-- Do not translate. Unicode pi sign; don't translate. Displayed as button on screen. -->
+    <string name="pi">\u03c0</string>
+    <!-- Displayed on buttons on screen for the e function. -->
+    <string name="e">e</string>
+    <!-- Do not translate. What we replace translated e with for calculating e. -->
+
+    <!-- Displayed on buttons on screen for the ln function. -->
+    <string name="ln">ln</string>
+    <!-- Do not translate. What we replace translated ln with for calculating ln. -->
+
+    <!-- Displayed on buttons on screen for the log function. -->
+    <string name="lg">log</string>
+    <!-- Do not translate. What we replace translated lg with for calculating lg. -->
+
+    <!-- Displayed on buttons on screen for a left parenthesis. -->
+    <string name="leftParen">(</string>
+    <!-- Displayed on buttons on screen for a right parenthesis. -->
+    <string name="rightParen">)</string>
+    <!-- Do not translate. Unicode square root sign; don't translate. Displayed on button on screen. -->
+    <string name="sqrt">\u221a</string>
+    <!-- Do not translate. Displayed on buttons on screen. -->
+    <string name="power">^</string>
+    <!-- Do not translate. -->
+    <string name="factorial">!</string>
+    <!-- Menu item text to take user to the screen with the basic digits and operators. -->
+    <string name="basic">Basic Panel</string>
+    <!-- Menu item text to take user to the screen with the advanced functions, such as sin, cos, ln, log, etc. -->
+    <string name="advanced">Advanced Panel</string>
+    <!-- Menu item text to clear the calculation history. -->
+    <string name="clear_history">Clear History</string>
+    <!-- Toast shown when text is copied to the clipboard. -->
+    <string name="text_copied_toast">Text Copied.</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="about_main">It\'s time to rethink what your calculator can do. CalcMate is your everyday calculation assistant. Developed to help you carry out complex calculations without needing to reach for a pen!</string>
+    <string name="about_basic_main">Just as the title states, this is the panel where simple calculations like addition, subtraction, multiplication and division can be done! Designed to carryout elementary calculations.</string>
+    <string name="about_advanced_main">From time to time, you might need to dive into more complex calculations and sad news, only a small percentage of Calculator apps out there have the ability to do this. This is where CalcMate comes in handy, allowing you to obtain trigonometric ratios of  any angle such as Sine, Cosine and Tangent, it contains a couple of other useful functions such as Log, Exponential, Percentage, Square Roots, etc. At the bottom right of this panel, you can define the Value of X and Y axis for your graph equations, take for example: 5X-6Y=8 (this is a typical simultaneous equation to plot a graph), all these are the major functions of this panel (The Advanced Panel).</string>
+    <string name="about_matrix_main">Yes! For the Statistics Students, this is the panel specifically made for you guys! We understand that dealing with large quantities of numeric data can prove to be quite an involving task for everyone (not just data analysts). However, having been keen towards solving problems, we made the Matrix Panel, this panel lets you carryout basic calculations on matrices such as the addition, subtraction and general multiplication of matrices. This panel makes us standout unique from our peers, something you wouldn\'t be able to find in any other calculator.</string>
+    <string name="about_hex_main">Tutorial coming soon.......</string>
+    <string name="about_graph_main">This is the most confusing but mind blowing part of CalcMate. This is the section that graphically represents your mathematical equations (basically SIMULTANEOUS EQUATIONS). As we explained how to define the values of X and Y axis from the advanced panel, take for example: 5X-6Y=8, mathematically, this simultaneous equation when plotted on a graph should show a line that slops upwards from the X-axis towards the Y-axis, after writing this equation, swipe back to this panel and wait a sec for the graphical representation!</string>
+    <string name="feedback">Give Us a Feedback</string>
+    <string name="share">Share CalcMate to Friends</string>
+    <string name="rate">Rate CalcMate on Play Store</string>
+    <string name="made_with_love">Made With Love</string>
+    <string name="feedback_email_address">gigabytedevelopers@gmail.com</string>
+    <string name="feedback_email_subject">Feedback About CalcMate</string>
+    <string name="feedback_email_message">Feedback About CalcMate</string>
+    <string name="feedback_email_title">CalcMate Feedback</string>
+</resources>

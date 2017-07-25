@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string msgid="7122495413742976492" name="advanced">"Pokročilé funkce"</string>
+    <string msgid="8095131950334945205" name="app_name">"Kalkulačka"</string>
+    <string msgid="7691469861698059753" name="basic">"Základní funkce"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binární</string>
+    <string msgid="8103610981407459768" name="clear">"CLEAR"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Vymazat historii"</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">Zde se automaticky zobrazí grafy. V panelu Pokročilé funkce vytvořte funkci používající proměnné X a Y.</string>
+    <string name="cling_graph_title">Graf</string>
+    <string name="cling_hex_msg">Přepínání bezi desítkovou (dec), binární (bin) a šestnáctkovou (hex) soustavou.\n\nUpozornění: Pokud si myslíte, že výsledky jsou špatně, nejpravděpodobněji máte zvolenou špatnou soustavu. Výchozí je desítková.</string>
+    <string name="cling_hex_title">Změna soustavy</string>
+    <string name="cling_matrix_msg">Dotykem zde můžete vytvořit a vyřešit matici.</string>
+    <string name="cling_matrix_title">Matice</string>
+    <string name="cling_simple_msg">Pro zobrazení dalších panelů použijte posunutí vlevo nebo vpravo. Nepoužívané panely je možné zakázat v nastavení.</string>
+    <string name="cling_simple_title">Vítejte</string>
+    <string name="copy">Kopírovat \"%s\"</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Cross</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Desítkové</string>
+    <string msgid="6248896117422989693" name="del">"SMAZAT"</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Determinant</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="dotProduct">Dot</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="easter_egg">Magikarpa použil šplouchnutí, ale nic se nestalo.</string>
+    <string name="eigenvalue">Vlastní</string>
+    <string name="eigenvalueDesc">Vlastní hodnota</string>
+    <string msgid="9197457880925804499" name="error">"Chyba"</string>
+    <string name="function">Panel funkce</string>
+    <string name="graph">Panel grafu</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Šestnáctkové</string>
+    <string name="hexPanel">Binární panel</string>
+    <string name="hideHistory">Skrýt historii</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">Panel matice</string>
+    <string name="minus_col">-Sloup</string>
+    <string name="minus_row">-Řádek</string>
+    <string name="next">Další</string>
+    <string name="plus_col">+Sloup</string>
+    <string name="plus_row">+Řádek</string>
+    <string name="pref_about">O aplikaci</string>
+    <string name="pref_actions">Akce</string>
+    <string name="pref_panels">Panely</string>
+    <string name="pref_units">Jednotky</string>
+    <string name="remove_from_history">Odebrat z historie</string>
+    <string name="returnToBasic">Zpět na základní panel</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Nastavení</string>
+    <string name="showHistory">Zobrazit historii</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Vyřešit</string>
+    <string name="solveForX">Vyřešit pro X</string>
+    <string name="solveForY">Vyřešit pro Y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Text zkopírován."</string>
+    <string name="trigUnits">Trig. jednotky</string>
+</resources>

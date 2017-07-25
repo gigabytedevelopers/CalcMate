@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">x</string>
+    <string name="Y">y</string>
+    <string msgid="7122495413742976492" name="advanced">"Panel lanjutan"</string>
+    <string msgid="8095131950334945205" name="app_name">"Calculator"</string>
+    <string msgid="7691469861698059753" name="basic">"Panel dasar"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Biner</string>
+    <string msgid="8103610981407459768" name="clear">"HAPUS"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Hapus riwayat"</string>
+    <string name="copy">Menyalin \'%s\'</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Uitpr</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Desimal</string>
+    <string msgid="6248896117422989693" name="del">"DELETE"</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Determinan</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="dotProduct">Inpr</string>
+    <string name="dx">dx</string>
+    <string name="dy">dy</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="eigenvalueDesc">Nilai Eigen</string>
+    <string msgid="9197457880925804499" name="error">"Kesalahan"</string>
+    <string name="function">Fungsi</string>
+    <string name="graph">Grafik</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Heksadesimal</string>
+    <string name="hexPanel">Hex</string>
+    <string name="hideHistory">Sembunyikan riwayat</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">Matriks</string>
+    <string name="mod">mod</string>
+    <string name="remove_from_history">Hapus dari riwayat</string>
+    <string name="returnToBasic">Kembali ke Panel dasar</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Setelan</string>
+    <string name="showHistory">Tampilkan riwayat</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Meny.</string>
+    <string name="solveForX">Menyelesaikan x</string>
+    <string name="solveForY">Menyelesaikan y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Teks disalin."</string>
+</resources>

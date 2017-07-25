@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="matrix">"Panou matrice"</string>
+    <string name="graph">"Panou grafic"</string>
+    <string name="function">"Panou funcție"</string>
+    <string name="hexPanel">"Panou hex"</string>
+    <string name="copy">"Copiați \"%s\""</string>
+    <string name="remove_from_history">"Ștergeți din istoric"</string>
+    <string name="showHistory">"Arătați istoricul"</string>
+    <string name="hideHistory">"Ascundeți istoricul"</string>
+    <string name="settings">"Setări"</string>
+    <string name="returnToBasic">"Întoarcere la panoul de bază"</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="7122495413742976492" name="advanced">"高级面板"</string>
+    <string msgid="8095131950334945205" name="app_name">"计算器"</string>
+    <string msgid="7691469861698059753" name="basic">"基本面板"</string>
+    <string name="binDesc">二进制</string>
+    <string msgid="8103610981407459768" name="clear">"清除"</string>
+    <string msgid="8458043980601165012" name="clear_history">"清除历史记录"</string>
+    <string name="cling_dismiss">确定</string>
+    <string name="cling_graph_msg">图表将会在这里自动显示. 请到高级面板并使用 X 与 Y 来创建一个函数.</string>
+    <string name="cling_graph_title">图表</string>
+    <string name="cling_hex_msg">在十进制 (Dec), 二进制 (Bin), 与十六进制 (Hex) 之间进行切换.\n\n警告: 如果您发现得到的结果是错误的, 这应该是您选择了错误的进制而导致的. 计算器的默认进制是十进制.</string>
+    <string name="cling_hex_title">更改进制</string>
+    <string name="cling_matrix_msg">点击这里来创建与解决矩阵问题.</string>
+    <string name="cling_matrix_title">矩阵</string>
+    <string name="cling_simple_msg">左右滑动将显示其它的面板. 您可在设置内禁用不需要的面板.</string>
+    <string name="cling_simple_title">欢迎</string>
+    <string name="copy">复制 \'%s\'</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="decDesc">十进制</string>
+    <string msgid="6248896117422989693" name="del">"删除"</string>
+    <string name="determinantDesc">行列式</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="easter_egg">用尽了浑身力气去解数, 但依然无效.</string>
+    <string name="eigenvalueDesc">特征向量</string>
+    <string msgid="9197457880925804499" name="error">"出错"</string>
+    <string name="function">函数面板</string>
+    <string name="graph">图表面板</string>
+    <string name="hexDesc">十六进制</string>
+    <string name="hexPanel">十六进制面板</string>
+    <string name="hideHistory">隐藏历史记录</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">矩阵面板</string>
+    <string name="minus_col">-列</string>
+    <string name="minus_row">-行</string>
+    <string name="mod">取余数</string>
+    <string name="next">下一个</string>
+    <string name="plus_col">+列</string>
+    <string name="plus_row">+行</string>
+    <string name="pref_about">关于</string>
+    <string name="pref_actions">操作</string>
+    <string name="pref_panels">面板</string>
+    <string name="pref_units">单位</string>
+    <string name="remove_from_history">从历史记录移除</string>
+    <string name="returnToBasic">返回到基本面板</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">设置</string>
+    <string name="showHistory">显示历史记录</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solveForX">求解 X</string>
+    <string name="solveForY">求解 Y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"文本已复制."</string>
+    <string name="trigUnits">三角函数单位</string>
+</resources>

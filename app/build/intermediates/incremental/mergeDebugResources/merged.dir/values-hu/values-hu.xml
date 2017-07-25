@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string msgid="7122495413742976492" name="advanced">"Speciális panel"</string>
+    <string msgid="8095131950334945205" name="app_name">"Számológép"</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string msgid="7691469861698059753" name="basic">"Alappanel"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Bináris</string>
+    <string msgid="8103610981407459768" name="clear">"Törlés"</string>
+    <string msgid="8458043980601165012" name="clear_history">"Előzmények törlése"</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">A grafikon automatikusan megjelenik. Más függvény értékek a részletes beállításokban adhatóak meg.</string>
+    <string name="cling_graph_title">Grafikon</string>
+    <string name="cling_hex_msg">Válasszon a kettes (bin), tízes (dec), tizenhatos (hex) számrendszerek közül.\n\nFigyelmeztetés: Ha úgy gondolja, hogy rossz eredményényeket kap, akkor valószínűleg rossz a beállítás. Az alapértelmezett érték a decimális.</string>
+    <string name="cling_hex_title">Számrendszer módosítása</string>
+    <string name="cling_matrix_msg">Érintse meg mátrix felépítéséhez és megoldásához.</string>
+    <string name="cling_matrix_title">Mátrixok</string>
+    <string name="cling_simple_msg">Csúsztasson jobbra vagy balra a további tartalmakért. A használni kivánt panelek a beállításokban megadhatóak.</string>
+    <string name="cling_simple_title">Üdvözöljük</string>
+    <string name="copy">Másolás \'%s\'</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Vektoriális szorzat</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimális</string>
+    <string name="degrees">Fok</string>
+    <string msgid="6248896117422989693" name="del">"TÖRLÉS"</string>
+    <string name="determinant">Determináns</string>
+    <string name="determinantDesc">Determináns</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="digitGrouping">Számjegyek csoportosítása</string>
+    <string name="dotProduct">Skalárszorzat</string>
+    <string name="dx">dX</string>
+    <string name="dy">dY</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="easter_egg">Magikarp Splash-t használt, de nem történt semmi.</string>
+    <string name="eigenvalue">Sajátérték</string>
+    <string name="eigenvalueDesc">Sajátérték</string>
+    <string msgid="9197457880925804499" name="error">"Hiba"</string>
+    <string name="function">Függvény panel</string>
+    <string name="graph">Grafikon panel</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Hexadecimális</string>
+    <string name="hexPanel">Hexadecimális panel</string>
+    <string name="hideHistory">Előzmények elrejtése</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="lock">Lap zárolása</string>
+    <string name="matrix">Mátrix panel</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus_col">-Oszlop</string>
+    <string name="minus_row">-Sor</string>
+    <string name="mod">mod</string>
+    <string name="next">Következő</string>
+    <string name="plus_col">+Oszlop</string>
+    <string name="plus_row">+Sor</string>
+    <string name="pref_about">Névjegy</string>
+    <string name="pref_actions">Események</string>
+    <string name="pref_panels">Panelek</string>
+    <string name="pref_units">Mértékegységek</string>
+    <string name="radians">Radián</string>
+    <string name="remove_from_history">Eltávolítás az előzményekből</string>
+    <string name="returnToBasic">Visszatérés az alappanelre</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Beállítások</string>
+    <string name="showHistory">Előzmények megjelenítése</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Megoldás</string>
+    <string name="solveForX">Megoldás X-re</string>
+    <string name="solveForY">Megoldás Y-ra</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Szöveg átmásolva."</string>
+    <string name="trigUnits">Trig. mértékegység</string>
+    <string name="unlock">Lap feloldása</string>
+</resources>

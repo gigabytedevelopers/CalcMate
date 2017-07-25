@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="X">x</string>
+    <string name="Y">y</string>
+    <string msgid="7122495413742976492" name="advanced">"Σύνθετες συναρτήσεις"</string>
+    <string msgid="8095131950334945205" name="app_name">"Αριθμομηχ."</string>
+    <string name="arccos">cos^\u22121</string>
+    <string name="arcsin">sin^\u22121</string>
+    <string name="arctan">tan^\u22121</string>
+    <string msgid="7691469861698059753" name="basic">"Βασικές πράξεις"</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Δυαδικό</string>
+    <string msgid="8103610981407459768" name="clear">"ΚΑΘΑΡ."</string>
+    <string msgid="8458043980601165012" name="clear_history">"Εκκαθάριση ιστορικού"</string>
+    <string name="cling_dismiss">OK</string>
+    <string name="cling_graph_msg">Οι γραφικές παραστάσεις θα προβάλλονται αυτόματα εδώ. Πηγαίνετε στο πάνελ σύνθετων συναρτήσεων και φτιάξτε μια συνάρτηση χρησιμοποιώντας Χ και Υ.</string>
+    <string name="cling_graph_title">Γραφικές παραστάσεις</string>
+    <string name="cling_hex_msg">Εναλλαγή μεταξύ δεκαδικού (dec), δυαδικού (bin), και δεκαεξαδικού (hex).\n\nΠροσοχή: Αν πιστεύετε ότι τα αποτελέσματα είναι λάθος, πιθανότατα είστε σε λάθος βάση. Η προεπιλογή είναι δεκαδικό.</string>
+    <string name="cling_hex_title">Αλλαγή βάσεων</string>
+    <string name="cling_matrix_msg">Πατήστε εδώ για να αρχίσετε δημιουργία και λύση πινάκων</string>
+    <string name="cling_matrix_title">Πίνακες</string>
+    <string name="cling_simple_msg">Σύρετε προς τα αριστερά και δεξιά για να αποκτήσετε πρόσβαση σε περισσότερο περιεχόμενο. Οι περιττές σελίδες μπορούν να απενεργοποιηθούν από τις Ρυθμίσεις.</string>
+    <string name="cling_simple_title">Καλως ήλθατε</string>
+    <string name="copy">Αντιγραφή \"%s\"</string>
+    <string msgid="6901841853098114414" name="cos">"cos"</string>
+    <string name="crossProduct">Cross</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Δεκαδικό</string>
+    <string name="degrees">ΜΟΙΡΕΣ</string>
+    <string msgid="6248896117422989693" name="del">"ΔΙΑΓΡ."</string>
+    <string name="determinant">Det</string>
+    <string name="determinantDesc">Ορίζουσα</string>
+    <string msgid="8069590963464434135" name="digit0">"0"</string>
+    <string msgid="8535041374797804029" name="digit1">"1"</string>
+    <string msgid="8977354203154316247" name="digit2">"2"</string>
+    <string msgid="148544090755132760" name="digit3">"3"</string>
+    <string msgid="2199490603838247678" name="digit4">"4"</string>
+    <string msgid="7568514524384173087" name="digit5">"5"</string>
+    <string msgid="6705952561049362551" name="digit6">"6"</string>
+    <string msgid="658125644218958447" name="digit7">"7"</string>
+    <string msgid="3134686906411558886" name="digit8">"8"</string>
+    <string msgid="765379157698748031" name="digit9">"9"</string>
+    <string name="dotProduct">Dot</string>
+    <string name="dx">dx</string>
+    <string name="dy">dy</string>
+    <string msgid="1377847800971731483" name="e">"e"</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="eigenvalueDesc">Ιδιοτιμές</string>
+    <string msgid="9197457880925804499" name="error">"Σφάλμα"</string>
+    <string name="function">Συναρτήσεις</string>
+    <string name="graph">Γραφικές παράστασεις</string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Δεκαεξαδικό</string>
+    <string name="hexPanel">Δεκαεξαδικές πράξεις</string>
+    <string name="hideHistory">Απόκρυψη ιστορικού</string>
+    <string msgid="4850643713953092099" name="leftParen">"("</string>
+    <string msgid="873623857385418182" name="lg">"log"</string>
+    <string msgid="6888500680285403344" name="ln">"ln"</string>
+    <string name="matrix">Πίνακες</string>
+    <string name="matrix_transpose">T</string>
+    <string name="minus_col">-Στηλ</string>
+    <string name="minus_row">-Γραμ</string>
+    <string name="mod">mod</string>
+    <string name="next">Επόμενο</string>
+    <string name="plus_col">+Στηλ</string>
+    <string name="plus_row">+Γραμ</string>
+    <string name="pref_about">Σχετικά</string>
+    <string name="pref_actions">Ενέργειες</string>
+    <string name="pref_panels">Πάνελ</string>
+    <string name="pref_units">Μονάδες</string>
+    <string name="radians">ΑΚΤΙΝΙΑ</string>
+    <string name="remove_from_history">Αφαίρεση από το ιστορικό</string>
+    <string name="returnToBasic">Επιστροφή στις βασικές πράξεις</string>
+    <string msgid="3177971166159324016" name="rightParen">")"</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="showHistory">Εμφάνιση ιστορικού</string>
+    <string msgid="6793866152659175277" name="sin">"sin"</string>
+    <string name="solve">Λύση</string>
+    <string name="solveForX">Λύση ως προς x</string>
+    <string name="solveForY">Λύση ως προς y</string>
+    <string msgid="7957459816738554960" name="tan">"tan"</string>
+    <string msgid="5801480710472541833" name="text_copied_toast">"Το κείμενο αντιγράφηκε."</string>
+    <string name="trigUnits">Τριγ. μονάδες</string>
+</resources>

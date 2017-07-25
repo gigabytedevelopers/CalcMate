@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="@color/ripple">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="2dp" />
+            <solid android:color="@color/maindigitback" />
+        </shape>
+    </item>
+        <item android:drawable="@drawable/btn_keyboard_key_dark_normal_holo" />
+</ripple>

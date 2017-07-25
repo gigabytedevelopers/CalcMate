@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\hex_cling.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\hex_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\function_pad.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\function_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\simple_cling.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\simple_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\graph_pad.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\graph_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\graph_cling.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\graph_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\matrix_cling.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\matrix_cling.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\matrix_pad.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\matrix_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\simple_pad.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\simple_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\main.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\advanced_pad.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\advanced_pad.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-port-v13\\hex_pad.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout-sw600dp-port\\hex_pad.xml"
+    }
+]

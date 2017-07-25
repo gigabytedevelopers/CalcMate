@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-hdpi\\calculator_input_field.9.png",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-sw600dp-hdpi\\calculator_input_field.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-hdpi\\calc_clear_symbol.png",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-sw600dp-hdpi\\calc_clear_symbol.png"
+    }
+]

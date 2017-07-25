@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:4:5-55
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:7:5-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:12:5-14:31
+	tools:node
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:14:9-28
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:13:9-52
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:16:9-52
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:19:9-45
+application
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:5-50:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP_User\.android\build-cache\bd2df1ed2ff0a920f7e74085fc0f28c81c4a7964\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP_User\.android\build-cache\d515d80a485499ca1bb479db533748db05b47c07\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP_User\.android\build-cache\8cb8f4404457f15d28b3297d30a5ff207f64006c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP_User\.android\build-cache\71a88c486f3eb34fd8d3ca340de54de2aeeacd71\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP_User\.android\build-cache\73565c40e63a0641fa8b4470456dc5548dac7265\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:18-50
+	android:allowBackup
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:97-123
+	android:icon
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:51-96
+uses-library#com.sec.android.app.multiwindow
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:23:9-97
+	android:required
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:23:23-47
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:23:48-94
+meta-data#com.sec.android.support.multiwindow
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:24:9-94
+	android:value
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:24:71-91
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:24:20-70
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:25:9-124
+	android:resource
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:25:78-121
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:25:20-77
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:26:9-124
+	android:resource
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:26:78-121
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:26:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:27:9-124
+	android:resource
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:27:78-121
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:27:20-77
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:28:9-124
+	android:resource
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:28:78-121
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:28:20-77
+activity#com.android2.calculator3.Calculator
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:32:19-42
+	android:windowSoftInputMode
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:31:19-67
+	android:theme
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:30:19-58
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:29:19-69
+intent-filter#android.intent.action.MAIN+android.intent.category.APP_CALCULATOR+android.intent.category.DEFAULT+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:33:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:35:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:36:27-74
+category#android.intent.category.APP_CALCULATOR
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:37:17-83
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:37:27-80
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:38:17-89
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:38:27-86
+activity#com.android2.calculator3.Preferences
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:9-155
+	android:label
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:120-152
+	android:theme
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:71-119
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:19-70
+activity#com.android2.calculator3.About
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:9-146
+	android:label
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:114-143
+	android:theme
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:65-113
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:19-64
+activity#com.android2.calculator3.Help
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:9-144
+	android:label
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:113-141
+	android:theme
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:64-112
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:19-63
+receiver#com.android2.calculator3.CalculatorWidget
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:44:9-49:20
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:44:19-75
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:45:13-47:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:46:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:48:13-115
+	android:resource
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:48:66-112
+	android:name
+		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:48:24-65
+uses-sdk
+INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP_User\.android\build-cache\bd2df1ed2ff0a920f7e74085fc0f28c81c4a7964\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP_User\.android\build-cache\d515d80a485499ca1bb479db533748db05b47c07\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP_User\.android\build-cache\8cb8f4404457f15d28b3297d30a5ff207f64006c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP_User\.android\build-cache\71a88c486f3eb34fd8d3ca340de54de2aeeacd71\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP_User\.android\build-cache\73565c40e63a0641fa8b4470456dc5548dac7265\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP_User\.android\build-cache\bd2df1ed2ff0a920f7e74085fc0f28c81c4a7964\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP_User\.android\build-cache\d515d80a485499ca1bb479db533748db05b47c07\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP_User\.android\build-cache\8cb8f4404457f15d28b3297d30a5ff207f64006c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP_User\.android\build-cache\71a88c486f3eb34fd8d3ca340de54de2aeeacd71\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP_User\.android\build-cache\73565c40e63a0641fa8b4470456dc5548dac7265\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:26:9-47
