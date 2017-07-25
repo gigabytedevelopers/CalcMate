@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\libs\arity-2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5fcb42171ddf897aa295ee5f50356abc2a688c8">
+        <dex dex="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\arity-2.1.6_a62f8c0f4444a3c2e8fff4de8e524f1c39bff7d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c67b22e502d6c156a2aba490e1c519ca14cef952">
+        <dex dex="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5a007262522f3265077fabf37c2239669abd2baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\libs\ejml-0.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b0ea552892ad6e68c1c7df5b8222661db8467ba">
+        <dex dex="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\ejml-0.21_603156477bdd4053c872fb5bcbb76e84849153fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\libs\slider.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08c240a89e4ad2d960431b0d5ad25b2924627fa6">
+        <dex dex="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\slider_e8dac3f40b0f7258e6890ea0436e9d6781f0013e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\libs\achartengine.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ca77b77fdd7e37c9f30cf71b6149eda409779bb">
+        <dex dex="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine_f05ca1c937cac0c3cbc1254747b12eed0cd09d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ea00ab7a5d4ab52ec099fb87b1c834bc7fd864f\classes.dex" />
+    </item>
+
+</items>
