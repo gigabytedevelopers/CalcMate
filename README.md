@@ -1,4 +1,4 @@
-# ![ICON](app/src/main/res/mipmap-hdpi/ic_launcher_calculator.png) - CalcMate
+# <img src="https://raw.githubusercontent.com/gigabytedevelopers/CalcMate/master/app/src/main/res/mipmap-hdpi/ic_launcher_calculator.png"> CalcMate
 A very powerful multi-dimensional/multipurpose Android Calculator app by Gigabyte Developers
 
 Get the full version in Google Play Store
