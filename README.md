@@ -60,12 +60,6 @@ Fanpage support: https://www.facebook.com/gigabytedevelopersinc
 
 Any suggestions on the application please send mail: gigabytedevelopers@gmail.com.
 
-## Install Natural Keyboard for input math formula
-
-https://play.google.com/store/apps/details?id=com.duy.calc.casio
-
-![ICON](art/natural_icon-web.png)
-
 ## License
 
 	Copyright 2017 Nwokoma Emmanuel (Founder and CEO - Gigabyte Developers Incorporated), Martins Victor (C0-Founder and CTO - Gigabyte Developers Incorporated)
