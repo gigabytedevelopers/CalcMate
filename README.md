@@ -1,4 +1,4 @@
-# CalcMate
+# CalcMate - ![ICON](app/src/main/res/mipmap-hdpi/ic_launcher_calculator.png)
 A very powerful multi-dimensional/multipurpose Android Calculator app by Gigabyte Developers
 
 Get the full version in Google Play Store
