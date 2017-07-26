@@ -11,13 +11,11 @@ Get lite version in Google Play Store
 	1. Computer science
 	2. Solving the equation:
 	3. Solve system equations
-	4. Graphing
-	5. Cartesian geometry sand(Viet Nam Education)
-	6. Unit Conversions
-	8. Simplify expressions
-	9. Polynomial factorization.
-	10. Binomial expansion Newton
-	11. Matrix
+	4. Unit Conversions
+	5. Simplify expressions
+	6. Polynomial factorization.
+	7. Binomial expansion Newton
+	8. Matrix
 ![ICON](app/src/main/res/drawable/matrix1.png) ![ICON](app/src/main/res/drawable/matrix2.png)
 
 ## ANALYTICS
@@ -26,6 +24,8 @@ Get lite version in Google Play Store
 	2. Antiderivative
 	3. Definite integrals
 	4. Find the limit of the sequence, function
+	5. Graphing
+![ICON](app/src/main/res/drawable/graph1.png) ![ICON](app/src/main/res/drawable/graph2.png)
 
 ## TRIGONOMETRIC
 
@@ -39,7 +39,7 @@ Get lite version in Google Play Store
 	1. Combination
 	2. Permutation
 
-## SOME OTHER FEATURES
+## SOME OTHER FEATURES - (Coming Soon)
 
 	1. Prime factors
 	2. Modulo
