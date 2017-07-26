@@ -1,10 +1,10 @@
 # CalcMate
 A very powerful multi-dimensional/multipurpose Android Calculator app by Gigabyte Developers
 
-Get lite version in Google Play Store
+Get the full version in Google Play Store
 
 <a href="https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.calculator">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="300"></a>
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="300"></a> 
 
 ## ALGEBRA
 
@@ -16,7 +16,7 @@ Get lite version in Google Play Store
 	6. Polynomial factorization.
 	7. Binomial expansion Newton
 	8. Matrix
-![ICON](app/src/main/res/drawable/matrix1.png) ![ICON](app/src/main/res/drawable/matrix2.png)
+![ICON](app/src/main/res/drawable/matrix2.png) ![ICON](app/src/main/res/drawable/matrix1.png) ![ICON](app/src/main/res/drawable/matrix2.png)
 
 ## ANALYTICS
 
@@ -25,19 +25,21 @@ Get lite version in Google Play Store
 	3. Definite integrals
 	4. Find the limit of the sequence, function
 	5. Graphing
-![ICON](app/src/main/res/drawable/graph1.png) ![ICON](app/src/main/res/drawable/graph2.png)
+![ICON](app/src/main/res/drawable/graph2.png) ![ICON](app/src/main/res/drawable/graph1.png) ![ICON](app/src/main/res/drawable/graph2.png)
 
 ## TRIGONOMETRIC
 
 	1. Trigonometric expand: sin(2x) -> 2sin(x)cos(x)
 	2. Trigonometric reduce: 2sin(x)cos(x) -> sin(2x)
 	3. Trigonometric to exponent: sinh(x) -> (e^x-e^(-x))/2
-![ICON](app/src/main/res/drawable/advanced1.png) ![ICON](app/src/main/res/drawable/advanced2.png)
+![ICON](app/src/main/res/drawable/advanced1.png) ![ICON](app/src/main/res/drawable/advanced2.png) ![ICON](app/src/main/res/drawable/advanced1.png)
 
-## DETERMINATION OF STATISTICS
+## DETERMINATION OF STATISTICS and BASIC CALCULATIONS
 
 	1. Combination
 	2. Permutation
+	3. Addition, Subtraction, Multiplication, Division, etc
+![ICON](app/src/main/res/drawable/basic2advanced1.png) ![ICON](app/src/main/res/drawable/basic1.png) ![ICON](app/src/main/res/drawable/advanced1.png)
 
 ## SOME OTHER FEATURES - (Coming Soon)
 
