@@ -39,7 +39,7 @@ Get the full version in Google Play Store
 	1. Combination
 	2. Permutation
 	3. Addition, Subtraction, Multiplication, Division, etc
-![ICON](app/src/main/res/drawable/basic2advanced1.png) ![ICON](app/src/main/res/drawable/basic1.png) ![ICON](app/src/main/res/drawable/advanced1.png)
+![ICON](app/src/main/res/drawable/basic2.png) ![ICON](app/src/main/res/drawable/basic1.png) ![ICON](app/src/main/res/drawable/advanced1.png)
 
 ## SOME OTHER FEATURES - (Coming Soon)
 
