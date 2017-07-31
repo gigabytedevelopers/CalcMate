@@ -15,8 +15,8 @@ Get the full version in Google Play Store
 
 ## ANALYTICS
 
-	3. Definite integrals
-	5. Graphing - Only single line graphical equations can be plotted at the moment (multiple line, intersects, o-give are Coming Soon)
+	1. Definite integrals
+	2. Graphing - Only single line graphical equations can be plotted at the moment (multiple line, intersects, o-give are Coming Soon)
 ![ICON](app/src/main/res/drawable/graph2.png) ![ICON](app/src/main/res/drawable/graph1.png) ![ICON](app/src/main/res/drawable/graph2.png)
 
 ## TRIGONOMETRIC
@@ -28,8 +28,8 @@ Get the full version in Google Play Store
 
 ## DETERMINATION OF STATISTICS and BASIC CALCULATIONS
 
-	3. Matrix
-	4. Addition, Subtraction, Multiplication, Division, etc
+	1. Matrix
+	2. Addition, Subtraction, Multiplication, Division, etc
 ![ICON](app/src/main/res/drawable/advanced1.png) ![ICON](app/src/main/res/drawable/basic1.png) ![ICON](app/src/main/res/drawable/advanced1.png)
 
 ## SOME OTHER FEATURES - (Coming Soon)
