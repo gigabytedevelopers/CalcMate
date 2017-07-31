@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/gigabytedevelopers/CalcMate/master/app/src/main/res/mipmap-hdpi/ic_launcher_calculator.png"> CalcMate
-A very powerful multi-dimensional/multipurpose Android Calculator app by Gigabyte Developers
+## CalcMate - A very powerful multi-dimensional/multipurpose Android Calculator app by Gigabyte Developers
 
 Get the full version in Google Play Store
 
@@ -8,23 +7,16 @@ Get the full version in Google Play Store
 
 ## ALGEBRA
 
-	1. Computer science
-	2. Solving the equation:
-	3. Solve system equations
-	4. Unit Conversions
-	5. Simplify expressions
-	6. Polynomial factorization.
-	7. Binomial expansion Newton
-	8. Matrix
+	1. Solving the equation:
+	2. Solve system equations
+	3. Simplify expressions
+	4. Polynomial factorization.
 ![ICON](app/src/main/res/drawable/matrix2.png) ![ICON](app/src/main/res/drawable/matrix1.png) ![ICON](app/src/main/res/drawable/matrix2.png)
 
 ## ANALYTICS
 
-	1. Derivative
-	2. Antiderivative
 	3. Definite integrals
-	4. Find the limit of the sequence, function
-	5. Graphing
+	5. Graphing - Only single line graphical equations can be plotted at the moment (multiple line, intersects, o-give are Coming Soon)
 ![ICON](app/src/main/res/drawable/graph2.png) ![ICON](app/src/main/res/drawable/graph1.png) ![ICON](app/src/main/res/drawable/graph2.png)
 
 ## TRIGONOMETRIC
@@ -36,9 +28,8 @@ Get the full version in Google Play Store
 
 ## DETERMINATION OF STATISTICS and BASIC CALCULATIONS
 
-	1. Combination
-	2. Permutation
-	3. Addition, Subtraction, Multiplication, Division, etc
+	3. Matrix
+	4. Addition, Subtraction, Multiplication, Division, etc
 ![ICON](app/src/main/res/drawable/advanced1.png) ![ICON](app/src/main/res/drawable/basic1.png) ![ICON](app/src/main/res/drawable/advanced1.png)
 
 ## SOME OTHER FEATURES - (Coming Soon)
@@ -48,13 +39,22 @@ Get the full version in Google Play Store
 	3. Catalan number
 	4. Fibonacci number
 	5. Pi number
+	6. Combination
+	7. Permutation
+	8. Derivative
+	9. Antiderivative
+	10. Find the limit of the sequence, function
+	11. Binomial expansion Newton
+	12. Unit Conversions
+	13. Currency Conversions
+	14. Date;Time Calculations
+	15. Electronics Calculations (Ohms, Power Triangle, Reactance, Filters), etc
 
-## Note
+## Important Notice
 
-The Calculator does not show the steps to solve the equations, system of equations, derivative... but only for the final result.
-Enter sin(30°) to calculate sine Degree mode
 
-The computer can work in two modes:
+
+CalcMate can work in two modes:
 - 	Decimal mode: 0.12312312323
 - 	Mode fractions: for results with arbitrary precision, for example 9^99999
 
@@ -64,7 +64,7 @@ Any suggestions on the application please send mail: gigabytedevelopers@gmail.co
 
 ## License
 
-	Copyright 2017 Nwokoma Emmanuel (Founder and CEO - Gigabyte Developers Incorporated), Martins Victor (C0-Founder and CTO - Gigabyte Developers Incorporated)
+	Copyright 2017 Nwokoma Emmanuel (Founder and CEO - Gigabyte Developers Incorporated), Martins Victor (Co-Founder and CTO - Gigabyte Developers Incorporated)
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
