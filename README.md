@@ -19,7 +19,7 @@ Get the full version in Google Play Store
 	2. Graphing - Only single line graphical equations can be plotted at the moment (multiple line, intersects, o-give are Coming Soon)
 ![ICON](app/src/main/res/drawable/graph2.png) ![ICON](app/src/main/res/drawable/graph1.png) ![ICON](app/src/main/res/drawable/graph2.png)
 
-## TRIGONOMETRIC
+## TRIGONOMETRY
 
 	1. Trigonometric expand: sin(2x) -> 2sin(x)cos(x)
 	2. Trigonometric reduce: 2sin(x)cos(x) -> sin(2x)
