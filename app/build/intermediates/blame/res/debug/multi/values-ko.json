@@ -7,8 +7,369 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+                    "endColumn": 94,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 94,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 107,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 107,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 122,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 122,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 93,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 93,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 101,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 101,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 81,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 577,
+                        "endColumn": 81,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 97,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 97,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 105,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 105,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 78,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 863,
+                        "endColumn": 78,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 75,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 75,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 79,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 79,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 97,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 97,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 94,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endColumn": 94,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 94,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 94,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 99,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 99,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 95,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 95,
+                        "endOffset": 1577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1582,
+                    "endColumn": 98,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1582,
+                        "endColumn": 98,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endColumn": 114,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 114,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 93,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1796,
+                        "endColumn": 93,
+                        "endOffset": 1885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1890,
                     "endColumn": 72,
-                    "endOffset": 123
+                    "endOffset": 1958
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -23,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 128,
+                    "startOffset": 1963,
                     "endColumn": 70,
-                    "endOffset": 194
+                    "endOffset": 2029
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -42,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 199,
+                    "startOffset": 2034,
                     "endColumn": 69,
-                    "endOffset": 264
+                    "endOffset": 2099
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -61,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 269,
+                    "startOffset": 2104,
                     "endColumn": 69,
-                    "endOffset": 334
+                    "endOffset": 2169
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -80,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 339,
+                    "startOffset": 2174,
                     "endColumn": 78,
-                    "endOffset": 413
+                    "endOffset": 2248
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -99,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 418,
+                    "startOffset": 2253,
                     "endColumn": 65,
-                    "endOffset": 479
+                    "endOffset": 2314
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -118,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 484,
+                    "startOffset": 2319,
                     "endColumn": 65,
-                    "endOffset": 545
+                    "endOffset": 2380
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -137,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 550,
+                    "startOffset": 2385,
                     "endColumn": 66,
-                    "endOffset": 612
+                    "endOffset": 2447
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -156,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 617,
+                    "startOffset": 2452,
                     "endColumn": 66,
-                    "endOffset": 679
+                    "endOffset": 2514
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -175,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 684,
+                    "startOffset": 2519,
                     "endColumn": 66,
-                    "endOffset": 746
+                    "endOffset": 2581
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -194,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 751,
+                    "startOffset": 2586,
                     "endColumn": 65,
-                    "endOffset": 812
+                    "endOffset": 2647
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -213,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 817,
+                    "startOffset": 2652,
                     "endColumn": 66,
-                    "endOffset": 879
+                    "endOffset": 2714
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -232,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 884,
+                    "startOffset": 2719,
                     "endColumn": 66,
-                    "endOffset": 946
+                    "endOffset": 2781
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -251,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 951,
+                    "startOffset": 2786,
                     "endColumn": 66,
-                    "endOffset": 1013
+                    "endOffset": 2848
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -270,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 1018,
+                    "startOffset": 2853,
                     "endColumn": 65,
-                    "endOffset": 1079
+                    "endOffset": 2914
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -289,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1084,
+                    "startOffset": 2919,
                     "endColumn": 66,
-                    "endOffset": 1146
+                    "endOffset": 2981
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -308,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1151,
+                    "startOffset": 2986,
                     "endColumn": 65,
-                    "endOffset": 1212
+                    "endOffset": 3047
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -327,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1217,
+                    "startOffset": 3052,
                     "endColumn": 61,
-                    "endOffset": 1274
+                    "endOffset": 3109
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -346,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1279,
+                    "startOffset": 3114,
                     "endColumn": 66,
-                    "endOffset": 1341
+                    "endOffset": 3176
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -365,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 1346,
+                    "startOffset": 3181,
                     "endColumn": 69,
-                    "endOffset": 1411
+                    "endOffset": 3246
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -384,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 1416,
+                    "startOffset": 3251,
                     "endColumn": 63,
-                    "endOffset": 1475
+                    "endOffset": 3310
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -403,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 1480,
+                    "startOffset": 3315,
                     "endColumn": 63,
-                    "endOffset": 1539
+                    "endOffset": 3374
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -422,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 1544,
+                    "startOffset": 3379,
                     "endColumn": 70,
-                    "endOffset": 1610
+                    "endOffset": 3445
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -441,11 +802,30 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 1615,
+                    "startOffset": 3450,
+                    "endColumn": 77,
+                    "endOffset": 3523
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1890,
+                        "endColumn": 77,
+                        "endOffset": 1963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3528,
                     "endColumn": 65,
-                    "endOffset": 1676
+                    "endOffset": 3589
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -460,11 +840,30 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 1681,
+                    "startOffset": 3594,
+                    "endColumn": 100,
+                    "endOffset": 3690
+                },
+                "from": {
+                    "file": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1968,
+                        "endColumn": 100,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3695,
                     "endColumn": 65,
-                    "endOffset": 1742
+                    "endOffset": 3756
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
@@ -479,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 1747,
+                    "startOffset": 3761,
                     "endColumn": 88,
-                    "endOffset": 1831
+                    "endOffset": 3845
                 },
                 "from": {
                     "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-ko\\strings.xml",
