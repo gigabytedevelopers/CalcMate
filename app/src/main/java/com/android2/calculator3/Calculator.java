@@ -8,6 +8,8 @@ import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Point;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
@@ -520,6 +522,8 @@ public class Calculator extends Activity implements Logic.Listener, OnClickListe
 
         Cling cling = (Cling) findViewById(clingId);
         if(cling != null) {
+            //getActionBar().hide();
+            getActionBar().hide();
             cling.init(this, positionData, revealRadius, showHand);
             cling.setVisibility(View.VISIBLE);
             cling.setLayerType(View.LAYER_TYPE_HARDWARE, null);
@@ -541,6 +545,8 @@ public class Calculator extends Activity implements Logic.Listener, OnClickListe
 
         if(cling != null) {
             cling.dismiss();
+            getActionBar().show();
+            getActionBar().setBackgroundDrawable(new ColorDrawable(Color.parseColor("#FFFFFF")));
             ObjectAnimator anim = ObjectAnimator.ofFloat(cling, "alpha", 0f);
             anim.setDuration(duration);
             anim.addListener(new AnimatorListenerAdapter() {

@@ -105,4 +105,18 @@
     <string name="feedback_email_subject">Feedback About CalcMate</string>
     <string name="feedback_email_message">Feedback About CalcMate</string>
     <string name="feedback_email_title">CalcMate Feedback</string>
+    <string-array name="planets_array">
+        <item>Calculator</item>
+        <item>Unit Converter - Coming Soon</item>
+        <item>Currency Converter - Coming Soon</item>
+        <item>Date/Time Calculator - Coming Soon</item>
+        <item>Coming Soon</item>
+        <item>Coming Soon</item>
+        <item>Coming Soon</item>
+        <item>Floating Calculator - Coming Soon</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
 </resources>

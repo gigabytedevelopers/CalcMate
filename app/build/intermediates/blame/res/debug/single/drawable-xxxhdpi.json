@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_star.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_star.png"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_feedback.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_star.png",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_star.png"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_share.png",

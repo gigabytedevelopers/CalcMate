@@ -48,14 +48,6 @@
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\cling.png"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cling_normal.9.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\btn_cling_normal.9.png"
-    },
-    {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cling_pressed.9.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\btn_cling_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_calculator.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_calculator.png"
     },
@@ -72,12 +64,12 @@
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\egg.png"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unlock.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\unlock.png"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\matrix.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\matrix.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\unlock.png",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-xhdpi\\unlock.png"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hand.png",

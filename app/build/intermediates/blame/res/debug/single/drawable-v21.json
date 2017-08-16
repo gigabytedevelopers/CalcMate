@@ -24,6 +24,10 @@
         "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\cling_button_bg.xml",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-v21\\cling_button_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\btn_digit.xml",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-v21\\btn_digit.xml"
     },

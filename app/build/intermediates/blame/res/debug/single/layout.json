@@ -60,6 +60,10 @@
         "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_entry.xml",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout\\history_entry.xml"
     },
@@ -86,10 +90,6 @@
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help_mains.xml",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout\\help_mains.xml"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -156,20 +156,12 @@
         "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout\\fragment_planet.xml"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",

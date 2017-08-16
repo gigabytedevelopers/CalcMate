@@ -60,12 +60,12 @@
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\calc_clear_symbol.png"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\matrix.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\matrix.png"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\matrix.png",
+        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\matrix.png"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\history_divider.png",
@@ -84,10 +84,6 @@
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\cling.png"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cling_normal.9.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\btn_cling_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
     },
@@ -98,10 +94,6 @@
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_cling.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\bg_cling.png"
-    },
-    {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_search.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\action_search.png"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hex.png",
@@ -120,20 +112,12 @@
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\btn_keyboard_key_light_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cling_pressed.9.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\btn_cling_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hand.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\hand.png"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\egg.png",
         "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\egg.png"
-    },
-    {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },
     {
         "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\graph_standard.png",

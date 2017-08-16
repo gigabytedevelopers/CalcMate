@@ -30,7 +30,7 @@ public class About extends Activity {
         Intent share = new Intent(Intent.ACTION_SEND);
         share.setType("text/plain");
         String shareSub = "\nLet me recommend this cool calculator app called CalcMate\n\n";
-        shareSub = shareSub + "https://play.google.com/store/apps/details?id=Orion.Soft \n\n";
+        shareSub = shareSub + "https://play.google.com/store/apps/details?id=com.gigabytedevelopersinc.app.calculator \n\n";
         share.putExtra(Intent.EXTRA_SUBJECT, "Check out CalcMate");
         share.putExtra(Intent.EXTRA_TEXT, shareSub);
         startActivity(Intent.createChooser(share, "Share CalcMate using"));
