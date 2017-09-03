@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.KeyEvent;
+import android.view.MenuItem;
 import android.view.View;
 
 import com.android2.calculator3.view.AboutFragment;
@@ -16,11 +17,19 @@ import com.gigabytedevelopersinc.app.calculator.R;
 public class About extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        getActionBar().setDisplayHomeAsUpEnabled(true);
         super.onCreate(savedInstanceState);
         if(savedInstanceState == null) {
             AboutFragment about = new AboutFragment();
             getFragmentManager().beginTransaction().add(android.R.id.content, about).commit();
         }
+    }
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+        if (id == android.R.id.home) {
+            finish();
+        }
+        return super.onOptionsItemSelected(item);
     }
     public void action_rate(View view) {
         Intent rate = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.gigabytedevelopersinc.app.calculator"));

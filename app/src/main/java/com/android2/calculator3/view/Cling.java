@@ -140,7 +140,7 @@ public class Cling extends FrameLayout {
             Rect rect = new Rect();
             Window window = ((Activity) getContext()).getWindow();
             window.getDecorView().getWindowVisibleDisplayFrame(rect);
-            int statusBarHeight = rect.top;
+            int statusBarHeight = 150;
             int[] pos = getPunchThroughPosition();
             cx = pos[0];
             cy = pos[1] - statusBarHeight;

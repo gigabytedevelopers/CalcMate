@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
+import android.view.MenuItem;
 
 import com.android2.calculator3.view.HelpFragment;
 
@@ -13,11 +14,19 @@ import com.android2.calculator3.view.HelpFragment;
 public class Help extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        getActionBar().setDisplayHomeAsUpEnabled(true);
         super.onCreate(savedInstanceState);
         if(savedInstanceState == null) {
             HelpFragment help = new HelpFragment();
             getFragmentManager().beginTransaction().add(android.R.id.content, help).commit();
         }
+    }
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int id = item.getItemId();
+        if (id == android.R.id.home) {
+            finish();
+        }
+        return super.onOptionsItemSelected(item);
     }
 
     @Override

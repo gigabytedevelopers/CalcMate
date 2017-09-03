@@ -11,6 +11,7 @@ import android.graphics.Point;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.ContextMenu;
 import android.view.ContextMenu.ContextMenuInfo;
 import android.view.Display;
@@ -29,6 +30,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.PopupMenu;
 import android.widget.PopupMenu.OnMenuItemClickListener;
+import android.widget.Toast;
 
 import com.gigabytedevelopersinc.app.calculator.R;
 import com.android2.calculator3.view.CalculatorDisplay;
@@ -56,6 +58,25 @@ public class Calculator extends Activity implements Logic.Listener, OnClickListe
     private Graph mGraph;
 
     private boolean clingActive = false;
+    private boolean exit = false;
+
+    @Override
+    public void onBackPressed(){
+
+        if (exit) {
+            finish();
+        } else {
+            Toast.makeText(this, "Press BACK again to Exit.", Toast.LENGTH_SHORT).show();
+            exit = true;
+            new Handler().postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    exit = false;
+                }
+            }, 3 * 1000);
+        }
+    }
+
 
     public enum Panel {
         GRAPH, FUNCTION, HEX, BASIC, ADVANCED, MATRIX;
