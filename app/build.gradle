@@ -68,5 +68,9 @@ dependencies {
     compile files('libs/ejml-0.21.jar')
     compile files('libs/slider.jar')
 }
+configurations {
+    compile.exclude group: "org.apache.httpcomponents", module: "httpclient"
+    compile.exclude group: "org.json", module: "json"
+}
 
 apply plugin: 'com.google.gms.google-services'
