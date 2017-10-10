@@ -1,17 +1,378 @@
 [
     {
-        "outputFile": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
+        "outputFile": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-am\\values-am.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 74,
-                    "endOffset": 125
+                    "startOffset": 105,
+                    "endColumn": 101,
+                    "endOffset": 202
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 101,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 107,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 107,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 122,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 122,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 98,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 98,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 105,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 105,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 85,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 85,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 102,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 102,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 112,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 112,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 77,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 77,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1023,
+                    "endColumn": 77,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 77,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endColumn": 78,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 78,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 99,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 99,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 99,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 99,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endColumn": 95,
+                    "endOffset": 1471
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 95,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1476,
+                    "endColumn": 102,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 102,
+                        "endOffset": 1524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endColumn": 98,
+                    "endOffset": 1673
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1529,
+                        "endColumn": 98,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1678,
+                    "endColumn": 106,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1628,
+                        "endColumn": 106,
+                        "endOffset": 1730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endColumn": 115,
+                    "endOffset": 1896
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1735,
+                        "endColumn": 115,
+                        "endOffset": 1846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1901,
+                    "endColumn": 95,
+                    "endOffset": 1992
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1851,
+                        "endColumn": 95,
+                        "endOffset": 1942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1997,
+                    "endColumn": 74,
+                    "endOffset": 2067
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -23,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 130,
+                    "startOffset": 2072,
                     "endColumn": 70,
-                    "endOffset": 196
+                    "endOffset": 2138
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -42,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 201,
+                    "startOffset": 2143,
                     "endColumn": 73,
-                    "endOffset": 270
+                    "endOffset": 2212
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -61,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 275,
+                    "startOffset": 2217,
                     "endColumn": 67,
-                    "endOffset": 338
+                    "endOffset": 2280
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -80,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 343,
+                    "startOffset": 2285,
                     "endColumn": 79,
-                    "endOffset": 418
+                    "endOffset": 2360
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -99,14 +460,33 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 423,
-                    "endColumn": 65,
-                    "endOffset": 484
+                    "startOffset": 2365,
+                    "endColumn": 190,
+                    "endOffset": 2551
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 190,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2556,
+                    "endColumn": 65,
+                    "endOffset": 2617
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -118,14 +498,14 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 489,
+                    "startOffset": 2622,
                     "endColumn": 65,
-                    "endOffset": 550
+                    "endOffset": 2683
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -137,14 +517,14 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 555,
+                    "startOffset": 2688,
                     "endColumn": 66,
-                    "endOffset": 617
+                    "endOffset": 2750
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -156,14 +536,14 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 622,
+                    "startOffset": 2755,
                     "endColumn": 66,
-                    "endOffset": 684
+                    "endOffset": 2817
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -175,14 +555,14 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 689,
+                    "startOffset": 2822,
                     "endColumn": 66,
-                    "endOffset": 751
+                    "endOffset": 2884
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -194,14 +574,14 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 756,
+                    "startOffset": 2889,
                     "endColumn": 65,
-                    "endOffset": 817
+                    "endOffset": 2950
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -213,14 +593,14 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 822,
+                    "startOffset": 2955,
                     "endColumn": 66,
-                    "endOffset": 884
+                    "endOffset": 3017
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -232,14 +612,14 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 889,
+                    "startOffset": 3022,
                     "endColumn": 66,
-                    "endOffset": 951
+                    "endOffset": 3084
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -251,14 +631,14 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 956,
+                    "startOffset": 3089,
                     "endColumn": 66,
-                    "endOffset": 1018
+                    "endOffset": 3151
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -270,14 +650,14 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 1023,
+                    "startOffset": 3156,
                     "endColumn": 65,
-                    "endOffset": 1084
+                    "endOffset": 3217
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -289,14 +669,14 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 1089,
+                    "startOffset": 3222,
                     "endColumn": 66,
-                    "endOffset": 1151
+                    "endOffset": 3284
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -308,14 +688,14 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 1156,
+                    "startOffset": 3289,
                     "endColumn": 65,
-                    "endOffset": 1217
+                    "endOffset": 3350
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -327,14 +707,14 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1222,
+                    "startOffset": 3355,
                     "endColumn": 61,
-                    "endOffset": 1279
+                    "endOffset": 3412
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -346,14 +726,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 1284,
+                    "startOffset": 3417,
                     "endColumn": 68,
-                    "endOffset": 1348
+                    "endOffset": 3481
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -365,14 +745,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 1353,
+                    "startOffset": 3486,
                     "endColumn": 69,
-                    "endOffset": 1418
+                    "endOffset": 3551
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -384,14 +764,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 1423,
+                    "startOffset": 3556,
                     "endColumn": 63,
-                    "endOffset": 1482
+                    "endOffset": 3615
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -403,14 +783,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 1487,
+                    "startOffset": 3620,
                     "endColumn": 63,
-                    "endOffset": 1546
+                    "endOffset": 3679
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -422,14 +802,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 1551,
+                    "startOffset": 3684,
                     "endColumn": 70,
-                    "endOffset": 1617
+                    "endOffset": 3750
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -441,14 +821,147 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 1622,
-                    "endColumn": 65,
-                    "endOffset": 1683
+                    "startOffset": 3755,
+                    "endColumn": 69,
+                    "endOffset": 3820
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 65,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3825,
+                    "endColumn": 107,
+                    "endOffset": 3928
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 303,
+                        "endColumn": 103,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3933,
+                    "endColumn": 65,
+                    "endOffset": 3994
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 407,
+                        "endColumn": 61,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3999,
+                    "endColumn": 69,
+                    "endOffset": 4064
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 469,
+                        "endColumn": 65,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4069,
+                    "endColumn": 79,
+                    "endOffset": 4144
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 535,
+                        "endColumn": 75,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4149,
+                    "endColumn": 97,
+                    "endOffset": 4242
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-am\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 611,
+                        "endColumn": 93,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4247,
+                    "endColumn": 78,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1947,
+                        "endColumn": 78,
+                        "endOffset": 2021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 65,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -460,14 +973,33 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 1688,
-                    "endColumn": 65,
-                    "endOffset": 1749
+                    "startOffset": 4392,
+                    "endColumn": 100,
+                    "endOffset": 4488
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-am\\values-am.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2026,
+                        "endColumn": 100,
+                        "endOffset": 2122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4493,
+                    "endColumn": 65,
+                    "endOffset": 4554
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -479,14 +1011,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 1754,
+                    "startOffset": 4559,
                     "endColumn": 87,
-                    "endOffset": 1837
+                    "endOffset": 4642
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-am\\strings.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-am\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,

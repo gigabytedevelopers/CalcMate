@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 118,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 118,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 107,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 122,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 108,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 108,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 106,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 106,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 85,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 85,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 100,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 100,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 121,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 121,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endColumn": 81,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 81,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 80,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 80,
+                        "endOffset": 1088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endColumn": 85,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1093,
+                        "endColumn": 85,
+                        "endOffset": 1174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 102,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1179,
+                        "endColumn": 102,
+                        "endOffset": 1277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 104,
+                    "endOffset": 1432
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1282,
+                        "endColumn": 104,
+                        "endOffset": 1382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1437,
+                    "endColumn": 97,
+                    "endOffset": 1530
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1387,
+                        "endColumn": 97,
+                        "endOffset": 1480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1535,
+                    "endColumn": 104,
+                    "endOffset": 1635
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1485,
+                        "endColumn": 104,
+                        "endOffset": 1585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1640,
+                    "endColumn": 110,
+                    "endOffset": 1746
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1590,
+                        "endColumn": 110,
+                        "endOffset": 1696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1751,
+                    "endColumn": 104,
+                    "endOffset": 1851
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1701,
+                        "endColumn": 104,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1856,
+                    "endColumn": 119,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 119,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 96,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1926,
+                        "endColumn": 96,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endColumn": 199,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 199,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endColumn": 73,
+                    "endOffset": 2342
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 237,
+                        "endColumn": 69,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2347,
+                    "endColumn": 122,
+                    "endOffset": 2465
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 307,
+                        "endColumn": 118,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2470,
+                    "endColumn": 69,
+                    "endOffset": 2535
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 426,
+                        "endColumn": 65,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2540,
+                    "endColumn": 66,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 492,
+                        "endColumn": 62,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 91,
+                    "endOffset": 2694
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 555,
+                        "endColumn": 87,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2699,
+                    "endColumn": 118,
+                    "endOffset": 2813
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\\output\\res\\values-bs\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 643,
+                        "endColumn": 114,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2818,
+                    "endColumn": 83,
+                    "endOffset": 2897
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2023,
+                        "endColumn": 83,
+                        "endOffset": 2102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2902,
+                    "endColumn": 100,
+                    "endOffset": 2998
+                },
+                "from": {
+                    "file": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\values-bs\\values-bs.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2107,
+                        "endColumn": 100,
+                        "endOffset": 2203
+                    }
+                }
+            }
+        ]
+    }
+]

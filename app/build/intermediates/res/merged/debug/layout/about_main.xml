@@ -15,7 +15,7 @@
             android:maxLines="1"
             android:textSize="30sp"
             android:textStyle="normal|bold"
-            android:text="@string/app_name_version" />
+            android:text="@string/app_name" />
 
 
     <ScrollView
@@ -64,7 +64,7 @@
                     android:textAlignment="viewStart"
                     android:visibility="visible"
                     android:onClick="action_rate"
-                    android:drawableStart="@drawable/ic_star"/>
+                    android:drawableLeft="@drawable/ic_star"/>
 
                 <Button
                     android:id="@+id/action_share"
@@ -80,7 +80,7 @@
                     android:textAlignment="viewStart"
                     android:visibility="visible"
                     android:onClick="action_share"
-                    android:drawableStart="@drawable/ic_share"/>
+                    android:drawableLeft="@drawable/ic_share"/>
 
                 <Button
                     android:id="@+id/action_feedback"
@@ -96,7 +96,7 @@
                     android:textAlignment="viewStart"
                     android:visibility="visible"
                     android:onClick="action_feedback"
-                    android:drawableStart="@drawable/ic_feedback"/>
+                    android:drawableLeft="@drawable/ic_feedback"/>
 
             <ImageView
                 android:layout_width="150dp"

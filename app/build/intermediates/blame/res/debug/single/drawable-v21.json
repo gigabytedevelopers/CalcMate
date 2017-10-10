@@ -1,42 +1,62 @@
 [
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\btn_function.xml",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-v21\\btn_function.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\a485504c93b60789324260922d85b850db0e55bb\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\cling_button_bg.xml",
+        "source": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\drawable-v21\\cling_button_bg.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\0b29a570b66156b39067858bf0794ce6d40ab671\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\a485504c93b60789324260922d85b850db0e55bb\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\a485504c93b60789324260922d85b850db0e55bb\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\0b29a570b66156b39067858bf0794ce6d40ab671\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\btn_digit.xml",
-        "source": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\drawable-v21\\btn_digit.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\button_rect_normal.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\aee7ae1a9efde555676e8fb7754c0b29fdba9117\\output\\res\\drawable-v21\\button_rect_normal.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\394a6f3a487fae91748d84c6e4d74f6c013869ee\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\b56039d39ee30ec284a6959dd1bf4773ca3a7591\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\HP_User\\.android\\build-cache\\9249d2b39120dbb00b707d1c431517db0d8229b5\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\0b29a570b66156b39067858bf0794ce6d40ab671\\output\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\btn_function.xml",
+        "source": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\drawable-v21\\btn_function.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\a485504c93b60789324260922d85b850db0e55bb\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\99591815dc2dd80843500c997f2cb64e41eaca07\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\btn_digit.xml",
+        "source": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\drawable-v21\\btn_digit.xml"
     }
 ]

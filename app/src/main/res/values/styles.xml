@@ -132,6 +132,7 @@
         <item name="android:paddingRight">35dp</item>
         <item name="android:text">@string/cling_dismiss</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:radius">5dp</item>
         <item name="android:background">@drawable/cling_button_bg</item>
     </style>
 
@@ -140,7 +141,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginBottom">5dp</item>
         <item name="android:textSize">23sp</item>
-        <item name="android:textColor">#49C0EC</item>
+        <item name="android:textColor">#5bb387</item>
         <item name="android:shadowColor">#000000</item>
         <item name="android:shadowDy">2</item>
         <item name="android:shadowRadius">2.0</item>
@@ -153,6 +154,10 @@
         <item name="android:shadowDy">2</item>
         <item name="android:shadowRadius">2.0</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="SplashTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
     </style>
 
     <style name="Theme.Calculator" parent="android:Theme.Holo">

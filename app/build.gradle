@@ -1,30 +1,72 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    signingConfigs {
+    }
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def newApkName = "${parent.name}-${output.baseName}-${variant.versionName}.apk"
+            output.outputFile = new File(output.outputFile.parent, newApkName)
+        }
+    }
     defaultConfig {
         applicationId "com.gigabytedevelopersinc.app.calculator"
-        minSdkVersion 19
-        targetSdkVersion 25
+        minSdkVersion 17
+        targetSdkVersion 26
     }
     buildTypes {
+        debug {
+            minifyEnabled true
+            shrinkResources true
+            useProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard/proguard-android.txt',
+                    getDefaultProguardFile('proguard-android-optimize.txt'),
+                    'proguard/proguard-android-optimize.txt'
+            zipAlignEnabled true
+        }
         release {
             minifyEnabled true
             shrinkResources true
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            useProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard/proguard-android.txt',
+                    getDefaultProguardFile('proguard-android-optimize.txt'),
+                    'proguard/proguard-android-optimize.txt'
+            zipAlignEnabled true
         }
     }
     productFlavors {
     }
+    lintOptions {
+        disable "ResourceType"
+        disable "MissingTranslation"
+    }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:25.3.1'
-    // compile 'com.android.support:design:25.3.1'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support:support-v4:26.1.0'
+    compile 'com.android.support:design:26.1.0'
+    compile "com.android.support:cardview-v7:26.1.0"
+    compile('com.mikepenz:aboutlibraries:5.8.5@aar') {
+        transitive = true
+    }
+    compile 'com.balysv:material-ripple:1.0.2'
+    compile 'com.mikepenz:google-material-typeface:2.2.0.3.original@aar'
+    compile 'cat.ereza:customactivityoncrash:1.5.0'
+    compile 'com.afollestad.material-dialogs:core:0.9.0.2'
+    compile 'com.afollestad.material-dialogs:commons:0.9.0.2'
+    compile 'com.github.Ritaja:java-exchange-rates:1.0'
     // compile 'de.hdodenhof:circleimageview:1.3.0'
+    //compile "com.google.firebase:firebase-crash:9.0.0"
+    compile 'com.google.firebase:firebase-ads:11.4.0'
+    //compile 'com.google.firebase:firebase-appindexing:11.4.0'
     compile files('libs/achartengine.jar')
     compile files('libs/arity-2.1.6.jar')
     compile files('libs/ejml-0.21.jar')
     compile files('libs/slider.jar')
 }
+
+apply plugin: 'com.google.gms.google-services'

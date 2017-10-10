@@ -15,6 +15,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="end|center_vertical"
+            android:textColor="@color/background"
             style="@style/display_style" />
         <Button
             android:id="@+id/delete"

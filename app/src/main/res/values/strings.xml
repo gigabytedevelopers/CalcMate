@@ -4,7 +4,6 @@
 <resources>
     <!-- Application name -->
     <string name="app_name">CalcMate</string>
-    <string name="app_name_version">CalcMate 1.0</string>
     <!-- If there is a syntax error in the user entered calculation, an error dialog will appear.  This is the title. -->
     <string name="error">Error</string>
     <!-- Displayed numbers for the digit buttons -->
@@ -95,7 +94,7 @@
     <string name="about_basic_main">Just as the title states, this is the panel where simple calculations like addition, subtraction, multiplication and division can be done! Designed to carryout elementary calculations.</string>
     <string name="about_advanced_main">From time to time, you might need to dive into more complex calculations and sad news, only a small percentage of Calculator apps out there have the ability to do this. This is where CalcMate comes in handy, allowing you to obtain trigonometric ratios of  any angle such as Sine, Cosine and Tangent, it contains a couple of other useful functions such as Log, Exponential, Percentage, Square Roots, etc. At the bottom right of this panel, you can define the Value of X and Y axis for your graph equations, take for example: 5X-6Y=8 (this is a typical simultaneous equation to plot a graph), all these are the major functions of this panel (The Advanced Panel).</string>
     <string name="about_matrix_main">Yes! For the Statistics Students, this is the panel specifically made for you guys! We understand that dealing with large quantities of numeric data can prove to be quite an involving task for everyone (not just data analysts). However, having been keen towards solving problems, we made the Matrix Panel, this panel lets you carryout basic calculations on matrices such as the addition, subtraction and general multiplication of matrices. This panel makes us standout unique from our peers, something you wouldn\'t be able to find in any other calculator.</string>
-    <string name="about_hex_main">Tutorial coming soon.......</string>
+    <string name="about_hex_main">Use the HEX Panel to toggle between Calculation modes such as: Decimal (DEC), Hexadecimal (HEX) and Binary (BIN) modes of calculations</string>
     <string name="about_graph_main">This is the most confusing but mind blowing part of CalcMate. This is the section that graphically represents your mathematical equations (basically SIMULTANEOUS EQUATIONS). As we explained how to define the values of X and Y axis from the advanced panel, take for example: 5X-6Y=8, mathematically, this simultaneous equation when plotted on a graph should show a line that slops upwards from the X-axis towards the Y-axis, after writing this equation, swipe back to this panel and wait a sec for the graphical representation!</string>
     <string name="feedback">Give Us a Feedback</string>
     <string name="share">Share CalcMate to Friends</string>
@@ -105,4 +104,19 @@
     <string name="feedback_email_subject">Feedback About CalcMate</string>
     <string name="feedback_email_message">Feedback About CalcMate</string>
     <string name="feedback_email_title">CalcMate Feedback</string>
+    <string-array name="planets_array">
+        <item>Calculator</item>
+        <item>Unit Converter - Coming Soon</item>
+        <item>Currency Converter - Coming Soon</item>
+        <item>Date/Time Calculator - Coming Soon</item>
+        <item>Coming Soon</item>
+        <item>Coming Soon</item>
+        <item>Coming Soon</item>
+        <item>Floating Calculator - Coming Soon</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://gigabytedevelopersinc.com\",\n  }\n}]</string>
 </resources>

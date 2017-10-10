@@ -2,12 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.gigabytedevelopersinc.app.calculator"
     android:installLocation="auto"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionCode="120"
+    android:versionName="1.2.0" >
 
     <uses-sdk
-        android:minSdkVersion="19"
-        android:targetSdkVersion="25" />
+        android:minSdkVersion="17"
+        android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -20,14 +20,23 @@
         android:name="android.hardware.wifi"
         android:required="false" />
 
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.gigabytedevelopersinc.app.calculator.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.gigabytedevelopersinc.app.calculator.permission.C2D_MESSAGE" />
 
     <application
         android:allowBackup="true"
+        android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher_calculator"
         android:label="@string/app_name" >
+        <meta-data
+            android:name="asset_statements"
+            android:resource="@string/asset_statements" />
+
         <uses-library
             android:name="com.sec.android.app.multiwindow"
             android:required="false" />
@@ -49,33 +58,53 @@
             android:resource="@dimen/app_minimumsize_h" />
 
         <activity
-            android:name="com.android2.calculator3.Calculator"
-            android:exported="true"
-            android:theme="@style/Theme.Calculator"
-            android:windowSoftInputMode="stateAlwaysVisible" >
+            android:name="com.gigabytedevelopersinc.app.calculator.Splash"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter
+                android:autoVerify="true"
+                android:label="@string/app_name" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="gigabytedevelopersinc.com"
+                    android:pathPrefix="/apps"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.gigabytedevelopersinc.app.calculator.Calculator"
+            android:exported="true"
+            android:theme="@style/Theme.Calculator"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" >
+            <intent-filter>
                 <category android:name="android.intent.category.APP_CALCULATOR" />
                 <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.android2.calculator3.Preferences"
+            android:name="com.gigabytedevelopersinc.app.calculator.Preferences"
             android:label="@string/settings"
             android:theme="@style/Theme.Settings.Calculator" />
         <activity
-            android:name="com.android2.calculator3.About"
+            android:name="com.gigabytedevelopersinc.app.calculator.About"
             android:label="@string/about"
             android:theme="@style/Theme.Settings.Calculator" />
         <activity
-            android:name="com.android2.calculator3.Help"
+            android:name="com.gigabytedevelopersinc.app.calculator.Help"
             android:label="@string/help"
             android:theme="@style/Theme.Settings.Calculator" />
 
-        <receiver android:name="com.android2.calculator3.CalculatorWidget" >
+        <receiver android:name="com.gigabytedevelopersinc.app.calculator.CalculatorWidget" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
@@ -84,6 +113,88 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/calculator_widget_info" />
         </receiver>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <activity android:name="com.mikepenz.aboutlibraries.ui.LibsActivity" />
+        <activity
+            android:name="cat.ereza.customactivityoncrash.activity.DefaultErrorActivity"
+            android:process=":error_activity"
+            android:theme="@style/CustomActivityOnCrashTheme" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.gigabytedevelopersinc.app.calculator" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.gigabytedevelopersinc.app.calculator.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

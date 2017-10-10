@@ -1,0 +1,663 @@
+# view res/layout/design_bottom_navigation_item.xml #generated:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/design_layout_snackbar_include.xml #generated:18
+-keep class android.support.design.internal.SnackbarContentLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/design_bottom_sheet_dialog.xml #generated:26
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13\res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view land\res/layout-land/main.xml #generated:5
+# view port\res/layout-port/main.xml #generated:5
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:41
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:43
+# view res/layout/abc_alert_dialog_material.xml #generated:52
+# view res/layout/abc_alert_dialog_material.xml #generated:66
+# view res/layout/abc_alert_dialog_title_material.xml #generated:56
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_select_dialog_material.xml #generated:23
+-keep class android.support.v7.app.AlertController$RecycleListView { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:44
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:18
+-keep class android.support.v7.widget.AlertDialogLayout { <init>(...); }
+
+# view ldrtl-v17\res/layout-ldrtl-v17/md_listitem_multichoice.xml #generated:28
+# view res/layout/md_listitem_multichoice.xml #generated:15
+-keep class android.support.v7.widget.AppCompatCheckBox { <init>(...); }
+
+# view ldrtl-v17\res/layout-ldrtl-v17/md_listitem_singlechoice.xml #generated:28
+# view res/layout/md_listitem_singlechoice.xml #generated:15
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:26
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/listitem_opensource.xml #generated:2
+-keep class android.support.v7.widget.CardView { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_title_material.xml #generated:45
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/fragment_opensource.xml #generated:1
+# view res/layout/md_dialog_list.xml #generated:39
+# view res/layout/md_dialog_list_check.xml #generated:39
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/activity_opensource.xml #generated:7
+# view v26\res/layout-v26/abc_screen_toolbar.xml #generated:37
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class cat.ereza.customactivityoncrash.activity.DefaultErrorActivity { <init>(...); }
+
+# view res/layout/md_stub_colorchooser_grid.xml #generated:2
+-keep class com.afollestad.materialdialogs.color.FillGridView { <init>(...); }
+
+# view res/layout/md_stub_actionbuttons.xml #generated:16
+# view res/layout/md_stub_actionbuttons.xml #generated:4
+# view res/layout/md_stub_actionbuttons.xml #generated:9
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# view res/layout/md_dialog_basic.xml #generated:1
+# view res/layout/md_dialog_basic_check.xml #generated:1
+# view res/layout/md_dialog_custom.xml #generated:1
+# view res/layout/md_dialog_input.xml #generated:1
+# view res/layout/md_dialog_input_check.xml #generated:1
+# view res/layout/md_dialog_list.xml #generated:1
+# view res/layout/md_dialog_list_check.xml #generated:1
+# view res/layout/md_dialog_progress.xml #generated:1
+# view res/layout/md_dialog_progress_indeterminate.xml #generated:1
+# view res/layout/md_dialog_progress_indeterminate_horizontal.xml #generated:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# view res/layout/fragment_converter.xml #generated:107
+# view res/layout/fragment_converter.xml #generated:126
+# view res/layout/fragment_converter.xml #generated:145
+# view res/layout/fragment_converter.xml #generated:164
+# view res/layout/fragment_converter.xml #generated:184
+# view res/layout/fragment_converter.xml #generated:212
+# view res/layout/fragment_converter.xml #generated:233
+# view res/layout/fragment_converter.xml #generated:253
+# view res/layout/fragment_converter.xml #generated:273
+# view res/layout/fragment_currency.xml #generated:114
+# view res/layout/fragment_currency.xml #generated:133
+# view res/layout/fragment_currency.xml #generated:153
+# view res/layout/fragment_currency.xml #generated:174
+# view res/layout/fragment_currency.xml #generated:203
+# view res/layout/fragment_currency.xml #generated:224
+# view res/layout/fragment_currency.xml #generated:244
+# view res/layout/fragment_currency.xml #generated:264
+# view res/layout/fragment_currency.xml #generated:95
+# view res/layout/simple_pads.xml #generated:121
+# view res/layout/simple_pads.xml #generated:141
+# view res/layout/simple_pads.xml #generated:161
+# view res/layout/simple_pads.xml #generated:181
+# view res/layout/simple_pads.xml #generated:208
+# view res/layout/simple_pads.xml #generated:228
+# view res/layout/simple_pads.xml #generated:248
+# view res/layout/simple_pads.xml #generated:268
+# view res/layout/simple_pads.xml #generated:295
+# view res/layout/simple_pads.xml #generated:315
+# view res/layout/simple_pads.xml #generated:33
+# view res/layout/simple_pads.xml #generated:335
+# view res/layout/simple_pads.xml #generated:355
+# view res/layout/simple_pads.xml #generated:382
+# view res/layout/simple_pads.xml #generated:402
+# view res/layout/simple_pads.xml #generated:423
+# view res/layout/simple_pads.xml #generated:443
+# view res/layout/simple_pads.xml #generated:53
+# view res/layout/simple_pads.xml #generated:73
+# view res/layout/simple_pads.xml #generated:93
+-keep class com.balysv.materialripple.MaterialRippleLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.gigabytedevelopersinc.app.calculator.About { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.gigabytedevelopersinc.app.calculator.Calculator { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.gigabytedevelopersinc.app.calculator.CalculatorWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.gigabytedevelopersinc.app.calculator.Help { <init>(...); }
+
+# view AndroidManifest.xml #generated:94
+-keep class com.gigabytedevelopersinc.app.calculator.Preferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.gigabytedevelopersinc.app.calculator.Splash { <init>(...); }
+
+# view res/layout/ads_layout.xml #generated:6
+-keep class com.gigabytedevelopersinc.app.calculator.ui.AdWrapper { <init>(...); }
+
+# view res/layout/fragment_currency.xml #generated:42
+# view res/layout/fragment_currency.xml #generated:71
+-keep class com.gigabytedevelopersinc.app.calculator.util.AutoResizeTextView { <init>(...); }
+
+# view land\res/layout-land/main.xml #generated:23
+# view port\res/layout-port/main.xml #generated:25
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/main.xml #generated:19
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:16
+-keep class com.gigabytedevelopersinc.app.calculator.view.CalculatorDisplay { <init>(...); }
+
+# view land\res/layout-land/main.xml #generated:51
+# view port\res/layout-port/main.xml #generated:59
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/main.xml #generated:84
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/main.xml #generated:92
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:44
+-keep class com.gigabytedevelopersinc.app.calculator.view.CalculatorViewPager { <init>(...); }
+
+# view land\res/layout-land/graph_cling.xml #generated:3
+# view land\res/layout-land/hex_cling.xml #generated:3
+# view land\res/layout-land/matrix_cling.xml #generated:3
+# view land\res/layout-land/simple_cling.xml #generated:3
+# view port\res/layout-port/graph_cling.xml #generated:3
+# view port\res/layout-port/hex_cling.xml #generated:3
+# view port\res/layout-port/matrix_cling.xml #generated:3
+# view port\res/layout-port/simple_cling.xml #generated:3
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/graph_cling.xml #generated:3
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_cling.xml #generated:3
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_cling.xml #generated:3
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_cling.xml #generated:3
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/graph_cling.xml #generated:3
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_cling.xml #generated:3
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_cling.xml #generated:3
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_cling.xml #generated:3
+-keep class com.gigabytedevelopersinc.app.calculator.view.Cling { <init>(...); }
+
+# view land\res/layout-land/advanced_pad.xml #generated:103
+# view land\res/layout-land/advanced_pad.xml #generated:18
+# view land\res/layout-land/advanced_pad.xml #generated:24
+# view land\res/layout-land/advanced_pad.xml #generated:30
+# view land\res/layout-land/advanced_pad.xml #generated:36
+# view land\res/layout-land/advanced_pad.xml #generated:41
+# view land\res/layout-land/advanced_pad.xml #generated:53
+# view land\res/layout-land/advanced_pad.xml #generated:58
+# view land\res/layout-land/advanced_pad.xml #generated:63
+# view land\res/layout-land/advanced_pad.xml #generated:68
+# view land\res/layout-land/advanced_pad.xml #generated:73
+# view land\res/layout-land/advanced_pad.xml #generated:85
+# view land\res/layout-land/advanced_pad.xml #generated:91
+# view land\res/layout-land/advanced_pad.xml #generated:97
+# view land\res/layout-land/function_pad.xml #generated:18
+# view land\res/layout-land/function_pad.xml #generated:26
+# view land\res/layout-land/function_pad.xml #generated:33
+# view land\res/layout-land/function_pad.xml #generated:47
+# view land\res/layout-land/function_pad.xml #generated:55
+# view land\res/layout-land/function_pad.xml #generated:62
+# view land\res/layout-land/hex_pad.xml #generated:18
+# view land\res/layout-land/hex_pad.xml #generated:23
+# view land\res/layout-land/hex_pad.xml #generated:28
+# view land\res/layout-land/hex_pad.xml #generated:33
+# view land\res/layout-land/hex_pad.xml #generated:38
+# view land\res/layout-land/hex_pad.xml #generated:50
+# view land\res/layout-land/hex_pad.xml #generated:56
+# view land\res/layout-land/hex_pad.xml #generated:63
+# view land\res/layout-land/hex_pad.xml #generated:70
+# view land\res/layout-land/main.xml #generated:79
+# view land\res/layout-land/main.xml #generated:88
+# view land\res/layout-land/matrix_pad.xml #generated:101
+# view land\res/layout-land/matrix_pad.xml #generated:106
+# view land\res/layout-land/matrix_pad.xml #generated:112
+# view land\res/layout-land/matrix_pad.xml #generated:117
+# view land\res/layout-land/matrix_pad.xml #generated:130
+# view land\res/layout-land/matrix_pad.xml #generated:135
+# view land\res/layout-land/matrix_pad.xml #generated:14
+# view land\res/layout-land/matrix_pad.xml #generated:140
+# view land\res/layout-land/matrix_pad.xml #generated:145
+# view land\res/layout-land/matrix_pad.xml #generated:151
+# view land\res/layout-land/matrix_pad.xml #generated:156
+# view land\res/layout-land/matrix_pad.xml #generated:19
+# view land\res/layout-land/matrix_pad.xml #generated:24
+# view land\res/layout-land/matrix_pad.xml #generated:29
+# view land\res/layout-land/matrix_pad.xml #generated:35
+# view land\res/layout-land/matrix_pad.xml #generated:40
+# view land\res/layout-land/matrix_pad.xml #generated:52
+# view land\res/layout-land/matrix_pad.xml #generated:57
+# view land\res/layout-land/matrix_pad.xml #generated:62
+# view land\res/layout-land/matrix_pad.xml #generated:67
+# view land\res/layout-land/matrix_pad.xml #generated:73
+# view land\res/layout-land/matrix_pad.xml #generated:91
+# view land\res/layout-land/matrix_pad.xml #generated:96
+# view land\res/layout-land/simple_pad.xml #generated:103
+# view land\res/layout-land/simple_pad.xml #generated:108
+# view land\res/layout-land/simple_pad.xml #generated:113
+# view land\res/layout-land/simple_pad.xml #generated:14
+# view land\res/layout-land/simple_pad.xml #generated:19
+# view land\res/layout-land/simple_pad.xml #generated:24
+# view land\res/layout-land/simple_pad.xml #generated:29
+# view land\res/layout-land/simple_pad.xml #generated:34
+# view land\res/layout-land/simple_pad.xml #generated:39
+# view land\res/layout-land/simple_pad.xml #generated:51
+# view land\res/layout-land/simple_pad.xml #generated:56
+# view land\res/layout-land/simple_pad.xml #generated:61
+# view land\res/layout-land/simple_pad.xml #generated:66
+# view land\res/layout-land/simple_pad.xml #generated:71
+# view land\res/layout-land/simple_pad.xml #generated:76
+# view land\res/layout-land/simple_pad.xml #generated:88
+# view land\res/layout-land/simple_pad.xml #generated:93
+# view land\res/layout-land/simple_pad.xml #generated:98
+# view port\res/layout-port/advanced_pad.xml #generated:102
+# view port\res/layout-port/advanced_pad.xml #generated:107
+# view port\res/layout-port/advanced_pad.xml #generated:112
+# view port\res/layout-port/advanced_pad.xml #generated:117
+# view port\res/layout-port/advanced_pad.xml #generated:18
+# view port\res/layout-port/advanced_pad.xml #generated:24
+# view port\res/layout-port/advanced_pad.xml #generated:30
+# view port\res/layout-port/advanced_pad.xml #generated:36
+# view port\res/layout-port/advanced_pad.xml #generated:48
+# view port\res/layout-port/advanced_pad.xml #generated:53
+# view port\res/layout-port/advanced_pad.xml #generated:58
+# view port\res/layout-port/advanced_pad.xml #generated:63
+# view port\res/layout-port/advanced_pad.xml #generated:75
+# view port\res/layout-port/advanced_pad.xml #generated:80
+# view port\res/layout-port/advanced_pad.xml #generated:85
+# view port\res/layout-port/advanced_pad.xml #generated:90
+# view port\res/layout-port/function_pad.xml #generated:18
+# view port\res/layout-port/function_pad.xml #generated:23
+# view port\res/layout-port/function_pad.xml #generated:28
+# view port\res/layout-port/function_pad.xml #generated:40
+# view port\res/layout-port/function_pad.xml #generated:47
+# view port\res/layout-port/function_pad.xml #generated:60
+# view port\res/layout-port/function_pad.xml #generated:67
+# view port\res/layout-port/function_pad.xml #generated:80
+# view port\res/layout-port/function_pad.xml #generated:85
+# view port\res/layout-port/function_pad.xml #generated:90
+# view port\res/layout-port/hex_pad.xml #generated:18
+# view port\res/layout-port/hex_pad.xml #generated:23
+# view port\res/layout-port/hex_pad.xml #generated:28
+# view port\res/layout-port/hex_pad.xml #generated:40
+# view port\res/layout-port/hex_pad.xml #generated:45
+# view port\res/layout-port/hex_pad.xml #generated:50
+# view port\res/layout-port/hex_pad.xml #generated:62
+# view port\res/layout-port/hex_pad.xml #generated:68
+# view port\res/layout-port/hex_pad.xml #generated:74
+# view port\res/layout-port/main.xml #generated:87
+# view port\res/layout-port/main.xml #generated:96
+# view port\res/layout-port/matrix_pad.xml #generated:102
+# view port\res/layout-port/matrix_pad.xml #generated:107
+# view port\res/layout-port/matrix_pad.xml #generated:112
+# view port\res/layout-port/matrix_pad.xml #generated:124
+# view port\res/layout-port/matrix_pad.xml #generated:129
+# view port\res/layout-port/matrix_pad.xml #generated:134
+# view port\res/layout-port/matrix_pad.xml #generated:139
+# view port\res/layout-port/matrix_pad.xml #generated:152
+# view port\res/layout-port/matrix_pad.xml #generated:157
+# view port\res/layout-port/matrix_pad.xml #generated:162
+# view port\res/layout-port/matrix_pad.xml #generated:167
+# view port\res/layout-port/matrix_pad.xml #generated:18
+# view port\res/layout-port/matrix_pad.xml #generated:23
+# view port\res/layout-port/matrix_pad.xml #generated:33
+# view port\res/layout-port/matrix_pad.xml #generated:38
+# view port\res/layout-port/matrix_pad.xml #generated:48
+# view port\res/layout-port/matrix_pad.xml #generated:53
+# view port\res/layout-port/matrix_pad.xml #generated:59
+# view port\res/layout-port/matrix_pad.xml #generated:70
+# view port\res/layout-port/matrix_pad.xml #generated:75
+# view port\res/layout-port/matrix_pad.xml #generated:80
+# view port\res/layout-port/matrix_pad.xml #generated:85
+# view port\res/layout-port/matrix_pad.xml #generated:97
+# view port\res/layout-port/simple_pad.xml #generated:103
+# view port\res/layout-port/simple_pad.xml #generated:108
+# view port\res/layout-port/simple_pad.xml #generated:113
+# view port\res/layout-port/simple_pad.xml #generated:17
+# view port\res/layout-port/simple_pad.xml #generated:22
+# view port\res/layout-port/simple_pad.xml #generated:27
+# view port\res/layout-port/simple_pad.xml #generated:32
+# view port\res/layout-port/simple_pad.xml #generated:44
+# view port\res/layout-port/simple_pad.xml #generated:49
+# view port\res/layout-port/simple_pad.xml #generated:54
+# view port\res/layout-port/simple_pad.xml #generated:59
+# view port\res/layout-port/simple_pad.xml #generated:71
+# view port\res/layout-port/simple_pad.xml #generated:76
+# view port\res/layout-port/simple_pad.xml #generated:81
+# view port\res/layout-port/simple_pad.xml #generated:86
+# view port\res/layout-port/simple_pad.xml #generated:98
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:12
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:18
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:24
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:33
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:37
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:41
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:48
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:52
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:56
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:63
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:67
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:71
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:78
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/advanced_pad.xml #generated:82
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:18
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:23
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:28
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:40
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:47
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:60
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:67
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:80
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:85
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/function_pad.xml #generated:90
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:18
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:23
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:28
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:40
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:45
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:50
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:62
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:68
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_pad.xml #generated:74
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:103
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:108
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:113
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:118
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:130
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:135
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:140
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:145
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:158
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:163
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:168
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:173
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:18
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:24
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:35
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:41
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:52
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:58
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:65
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:76
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:81
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:86
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_pad.xml #generated:91
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:101
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:11
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:15
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:19
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:23
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:27
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:34
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:38
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:42
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:46
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:50
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:67
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:71
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:75
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:79
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:86
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:91
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_pad.xml #generated:95
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:14
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:20
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:26
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:32
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:36
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:43
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:47
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:51
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:55
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:59
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:66
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:70
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:74
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:78
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/advanced_pad.xml #generated:82
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:14
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:21
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:27
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:33
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:42
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:49
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:55
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/function_pad.xml #generated:61
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:14
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:19
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:24
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:29
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:34
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:42
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:48
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:55
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_pad.xml #generated:62
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:72
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:81
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:103
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:108
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:113
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:118
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:130
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:135
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:140
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:145
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:158
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:163
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:168
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:173
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:18
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:24
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:35
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:41
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:52
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:58
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:65
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:76
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:81
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:86
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_pad.xml #generated:91
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:101
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:11
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:15
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:19
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:23
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:27
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:34
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:38
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:42
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:46
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:50
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:67
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:71
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:75
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:79
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:86
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:91
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_pad.xml #generated:95
+-keep class com.gigabytedevelopersinc.app.calculator.view.ColorButton { <init>(...); }
+
+# view res/layout/history_entry.xml #generated:1
+-keep class com.gigabytedevelopersinc.app.calculator.view.HistoryLine { <init>(...); }
+
+# view land\res/layout-land/main.xml #generated:29
+# view land\res/layout-land/main.xml #generated:33
+# view port\res/layout-port/main.xml #generated:35
+# view port\res/layout-port/main.xml #generated:40
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/main.xml #generated:25
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/main.xml #generated:29
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:23
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:27
+-keep class com.gigabytedevelopersinc.app.calculator.view.ScrollableDisplay { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/ads_wrapper.xml #generated:1
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:137
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:151
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:157
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:121
+-keep class com.mikepenz.aboutlibraries.ui.LibsActivity { <init>(...); }
+
+# view res/layout/fragment_converter.xml #generated:60
+# view res/layout/fragment_converter.xml #generated:83
+-keep class com.pimp.calculator.util.AutoResizeTextView { <init>(...); }
+
+# view land\res/layout-land/main.xml #generated:65
+# view port\res/layout-port/main.xml #generated:73
+# view sw600dp-land-v13\res/layout-sw600dp-land-v13/main.xml #generated:69
+# view sw600dp-port-v13\res/layout-sw600dp-port-v13/main.xml #generated:58
+-keep class com.xlythe.slider.Slider { <init>(...); }
+
+# onClick res/layout/fragment_converter.xml #generated:117
+# onClick res/layout/fragment_converter.xml #generated:136
+# onClick res/layout/fragment_converter.xml #generated:155
+# onClick res/layout/fragment_converter.xml #generated:174
+# onClick res/layout/fragment_converter.xml #generated:194
+# onClick res/layout/fragment_converter.xml #generated:222
+# onClick res/layout/fragment_converter.xml #generated:243
+# onClick res/layout/fragment_converter.xml #generated:263
+# onClick res/layout/fragment_converter.xml #generated:283
+# onClick res/layout/fragment_converter.xml #generated:358
+# onClick res/layout/fragment_currency.xml #generated:105
+# onClick res/layout/fragment_currency.xml #generated:124
+# onClick res/layout/fragment_currency.xml #generated:143
+# onClick res/layout/fragment_currency.xml #generated:163
+# onClick res/layout/fragment_currency.xml #generated:184
+# onClick res/layout/fragment_currency.xml #generated:213
+# onClick res/layout/fragment_currency.xml #generated:234
+# onClick res/layout/fragment_currency.xml #generated:254
+# onClick res/layout/fragment_currency.xml #generated:274
+# onClick res/layout/fragment_currency.xml #generated:349
+# onClick res/layout/simple_pads.xml #generated:103
+# onClick res/layout/simple_pads.xml #generated:131
+# onClick res/layout/simple_pads.xml #generated:151
+# onClick res/layout/simple_pads.xml #generated:171
+# onClick res/layout/simple_pads.xml #generated:191
+# onClick res/layout/simple_pads.xml #generated:218
+# onClick res/layout/simple_pads.xml #generated:238
+# onClick res/layout/simple_pads.xml #generated:258
+# onClick res/layout/simple_pads.xml #generated:278
+# onClick res/layout/simple_pads.xml #generated:305
+# onClick res/layout/simple_pads.xml #generated:325
+# onClick res/layout/simple_pads.xml #generated:345
+# onClick res/layout/simple_pads.xml #generated:365
+# onClick res/layout/simple_pads.xml #generated:392
+# onClick res/layout/simple_pads.xml #generated:412
+# onClick res/layout/simple_pads.xml #generated:43
+# onClick res/layout/simple_pads.xml #generated:433
+# onClick res/layout/simple_pads.xml #generated:453
+# onClick res/layout/simple_pads.xml #generated:63
+# onClick res/layout/simple_pads.xml #generated:83
+-keepclassmembers class * { *** BtnClick(...); }
+
+# onClick res/layout/about_main.xml #generated:85
+-keepclassmembers class * { *** action_feedback(...); }
+
+# onClick res/layout/about_main.xml #generated:53
+-keepclassmembers class * { *** action_rate(...); }
+
+# onClick res/layout/about_main.xml #generated:69
+-keepclassmembers class * { *** action_share(...); }
+
+# onClick land\res/layout-land/graph_cling.xml #generated:28
+# onClick port\res/layout-port/graph_cling.xml #generated:26
+# onClick sw600dp-land-v13\res/layout-sw600dp-land-v13/graph_cling.xml #generated:26
+# onClick sw600dp-port-v13\res/layout-sw600dp-port-v13/graph_cling.xml #generated:26
+-keepclassmembers class * { *** dismissGraphCling(...); }
+
+# onClick land\res/layout-land/hex_cling.xml #generated:28
+# onClick port\res/layout-port/hex_cling.xml #generated:28
+# onClick sw600dp-land-v13\res/layout-sw600dp-land-v13/hex_cling.xml #generated:26
+# onClick sw600dp-port-v13\res/layout-sw600dp-port-v13/hex_cling.xml #generated:26
+-keepclassmembers class * { *** dismissHexCling(...); }
+
+# onClick land\res/layout-land/matrix_cling.xml #generated:28
+# onClick port\res/layout-port/matrix_cling.xml #generated:28
+# onClick sw600dp-land-v13\res/layout-sw600dp-land-v13/matrix_cling.xml #generated:26
+# onClick sw600dp-port-v13\res/layout-sw600dp-port-v13/matrix_cling.xml #generated:26
+-keepclassmembers class * { *** dismissMatrixCling(...); }
+
+# onClick land\res/layout-land/simple_cling.xml #generated:28
+# onClick port\res/layout-port/simple_cling.xml #generated:28
+# onClick sw600dp-land-v13\res/layout-sw600dp-land-v13/simple_cling.xml #generated:26
+# onClick sw600dp-port-v13\res/layout-sw600dp-port-v13/simple_cling.xml #generated:26
+-keepclassmembers class * { *** dismissSimpleCling(...); }
+

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-land-v13\\values-sw800dp-land-v13.xml",
+        "outputFile": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw800dp-land-v13\\values-sw800dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-sw800dp-land\\styles.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-sw800dp-land\\styles.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 145
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-sw800dp-land\\styles.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-sw800dp-land\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 195
                 },
                 "from": {
-                    "file": "C:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\src\\main\\res\\values-sw800dp-land\\styles.xml",
+                    "file": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\src\\main\\res\\values-sw800dp-land\\styles.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

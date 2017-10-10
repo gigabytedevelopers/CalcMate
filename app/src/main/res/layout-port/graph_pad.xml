@@ -32,4 +32,5 @@
             android:padding="10dp"
             style="@style/button_style" />
     </LinearLayout>
+    <include layout="@layout/ads_layout" />
 </LinearLayout>

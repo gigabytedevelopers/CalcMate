@@ -1,76 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item android:id="@+id/show_history"
-        android:showAsAction="never"
-        android:icon="@drawable/clear_history"
+        app:showAsAction="never"
         android:title="@string/showHistory"/>
 
     <item android:id="@+id/hide_history"
-        android:showAsAction="never"
-        android:icon="@drawable/clear_history"
+        app:showAsAction="never"
         android:title="@string/hideHistory"/>
 
     <item android:id="@+id/clear_history"
-        android:showAsAction="never"
-        android:icon="@drawable/clear_history"
+        app:showAsAction="never"
         android:title="@string/clear_history"/>
 
     <item android:id="@+id/matrix"
-        android:showAsAction="never"
-        android:icon="@drawable/matrix"
+        app:showAsAction="never"
         android:title="@string/matrix"/>
 
     <item android:id="@+id/advanced"
-        android:showAsAction="never"
-        android:icon="@drawable/advanced"
+        app:showAsAction="never"
         android:title="@string/advanced"/>
 
     <item android:id="@+id/basic"
-        android:showAsAction="never"
-        android:icon="@drawable/simple"
+        app:showAsAction="never"
         android:title="@string/basic"/>
 
     <item android:id="@+id/hex"
-        android:showAsAction="never"
-        android:icon="@drawable/hex"
+        app:showAsAction="never"
         android:title="@string/hexPanel"/>
 
     <item android:id="@+id/function"
-        android:showAsAction="never"
-        android:icon="@drawable/function"
+        app:showAsAction="never"
         android:title="@string/function"/>
 
     <item android:id="@+id/graph"
-        android:showAsAction="never"
-        android:icon="@drawable/graph"
+        app:showAsAction="never"
         android:title="@string/graph"/>
 
     <item android:id="@+id/lock"
-        android:showAsAction="never"
-        android:icon="@drawable/lock"
+        app:showAsAction="never"
         android:title="@string/lock"/>
 
     <item android:id="@+id/unlock"
-        android:showAsAction="never"
-        android:icon="@drawable/unlock"
+        app:showAsAction="never"
         android:title="@string/unlock"/>
 
     <item android:id="@+id/settings"
-        android:showAsAction="never"
-        android:icon="@drawable/settings"
+        app:showAsAction="never"
         android:title="@string/settings"/>
 
     <item android:id="@+id/help"
-        android:showAsAction="never"
-        android:icon="@drawable/settings"
+        app:showAsAction="never"
         android:title="@string/help"/>
 
     <item android:id="@+id/about"
-        android:showAsAction="never"
-        android:icon="@drawable/settings"
+        app:showAsAction="never"
         android:title="@string/about"/>
 
     <!--     <item android:id="@+id/exit" -->

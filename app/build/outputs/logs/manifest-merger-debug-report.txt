@@ -1,200 +1,450 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:2:1-105:12
 	package
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:4:5-55
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:4:5-55
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:6:5-30
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:7:5-35
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:7:5-35
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:9:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:10:5-76
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:10:22-73
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:10:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:11:5-79
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:11:22-76
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:11:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:12:5-14:31
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:12:5-14:31
+REJECTED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:22:5-67
+REJECTED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:22:5-67
+REJECTED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:21:5-67
 	tools:node
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:14:9-28
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:14:9-28
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:13:9-52
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:13:9-52
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:15:5-17:36
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:16:5-18:36
 	android:required
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:17:9-33
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:18:9-33
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:16:9-52
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:17:9-52
 uses-feature#android.hardware.wifi
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:18:5-20:36
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:19:5-21:36
 	android:required
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:20:9-33
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:21:9-33
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:19:9-45
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:20:9-45
 application
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:5-50:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP_User\.android\build-cache\bd2df1ed2ff0a920f7e74085fc0f28c81c4a7964\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP_User\.android\build-cache\d515d80a485499ca1bb479db533748db05b47c07\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP_User\.android\build-cache\8cb8f4404457f15d28b3297d30a5ff207f64006c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP_User\.android\build-cache\71a88c486f3eb34fd8d3ca340de54de2aeeacd71\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP_User\.android\build-cache\73565c40e63a0641fa8b4470456dc5548dac7265\output\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:23:5-104:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Gigabyte\.android\build-cache\a485504c93b60789324260922d85b850db0e55bb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Gigabyte\.android\build-cache\24d43e95ac149454e30f7a2b2c68d394549c19f4\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.mikepenz:aboutlibraries:5.8.5] C:\Users\Gigabyte\.android\build-cache\aee7ae1a9efde555676e8fb7754c0b29fdba9117\output\AndroidManifest.xml:11:5-13:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\b9665ba12e11fadb1d47cce011a609d99ae83510\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Gigabyte\.android\build-cache\20c4dd2267705780243429debfbe4ef6f9884399\output\AndroidManifest.xml:12:5-20
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.3.original] C:\Users\Gigabyte\.android\build-cache\f74ac0122cce59a5f9e5464d290e05ebfbdc96f5\output\AndroidManifest.xml:27:5-20
+MERGED from [cat.ereza:customactivityoncrash:1.5.0] C:\Users\Gigabyte\.android\build-cache\56bb96d1faaf8cfd68ed06bafa2dde5f470630c6\output\AndroidManifest.xml:26:5-31:19
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] C:\Users\Gigabyte\.android\build-cache\c8f722c02545ffe54f7d9e8a88c0691cfde3d627\output\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\Gigabyte\.android\build-cache\0b29a570b66156b39067858bf0794ce6d40ab671\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\155a2a53e05af5eb5517c83d5774bf286cada98e\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\99591815dc2dd80843500c997f2cb64e41eaca07\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gigabyte\.android\build-cache\e29d979342c30750de0285e782daab358c8c5bca\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gigabyte\.android\build-cache\d4c3432bdb8519bdbacd8c8530cf4c3691dc201f\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-ads:11.4.0] C:\Users\Gigabyte\.android\build-cache\49a3318eda6512efe262ccfa4dac4c3b989ca6dc\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\Gigabyte\.android\build-cache\d3793af8da5b5d496110a9c44da6dae070a0f727\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:11.4.0] C:\Users\Gigabyte\.android\build-cache\50e131a6d3da9274785e8fbcaa48ee97089f7624\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Gigabyte\.android\build-cache\52c2e33a83ac88cdb821f1f0aa6e1c02acc1b358\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Gigabyte\.android\build-cache\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gigabyte\.android\build-cache\25bb79e9f01dc0d27de36c9970b026cdaf4669d1\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gigabyte\.android\build-cache\69222f67d911f4d07960b49a470763c1e09bec65\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gigabyte\.android\build-cache\3450cd37c1581b1f64eefea783358d9010d27b72\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gigabyte\.android\build-cache\dae7ddb758e8e0c4dee5d8845d10d30d75bdeea4\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gigabyte\.android\build-cache\526fbbd62505e7eb2f3090695b0b037431329661\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gigabyte\.android\build-cache\b56039d39ee30ec284a6959dd1bf4773ca3a7591\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gigabyte\.android\build-cache\5c7476657e83c6751a787b814de0a91e2ec59e1a\output\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:18-50
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:24:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:27:9-41
 	android:allowBackup
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:97-123
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:26:9-35
 	android:icon
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:22:51-96
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:25:9-54
+meta-data#asset_statements
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:28:9-30:59
+	android:resource
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:29:13-44
 uses-library#com.sec.android.app.multiwindow
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:23:9-97
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:31:9-33:62
 	android:required
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:23:23-47
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:23:48-94
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:33:13-59
 meta-data#com.sec.android.support.multiwindow
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:24:9-94
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:35:9-37:36
 	android:value
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:24:71-91
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:37:13-33
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:24:20-70
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:36:13-63
 meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:25:9-124
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:38:9-40:59
 	android:resource
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:25:78-121
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:40:13-56
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:25:20-77
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:39:13-70
 meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:26:9-124
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:41:9-43:59
 	android:resource
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:26:78-121
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:43:13-56
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:26:20-77
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:42:13-70
 meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:27:9-124
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:44:9-46:59
 	android:resource
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:27:78-121
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:46:13-56
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:27:20-77
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:45:13-70
 meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:28:9-124
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:47:9-49:59
 	android:resource
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:28:78-121
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:28:20-77
-activity#com.android2.calculator3.Calculator
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:29:9-40:20
-	android:exported
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:32:19-42
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:48:13-70
+activity#com.gigabytedevelopersinc.app.calculator.Splash
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:51:9-72:20
 	android:windowSoftInputMode
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:31:19-67
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:54:13-70
 	android:theme
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:30:19-58
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:53:13-47
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:29:19-69
-intent-filter#android.intent.action.MAIN+android.intent.category.APP_CALCULATOR+android.intent.category.DEFAULT+android.intent.category.LAUNCHER+android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:33:13-39:29
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:52:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:55:13-60:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:56:17-69
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:56:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:35:17-76
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:58:17-76
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:35:27-73
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:58:27-73
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:59:17-77
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:59:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:61:13-71:29
+	android:label
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:61:28-60
+	android:autoVerify
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:61:61-86
+action#android.intent.action.VIEW
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:62:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:65:17-78
+	android:name
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:65:27-75
+data
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:67:17-70:50
+	android:host
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:69:21-61
+	android:scheme
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:68:21-42
+	android:pathPrefix
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:70:21-47
+activity#com.gigabytedevelopersinc.app.calculator.Calculator
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:73:9-82:20
+	android:exported
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:77:13-36
+	android:windowSoftInputMode
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:76:13-70
+	android:theme
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:75:13-52
+	android:name
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:74:13-39
+intent-filter#android.intent.category.APP_CALCULATOR+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:78:13-81:29
 category#android.intent.category.APP_CALCULATOR
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:37:17-83
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:79:17-83
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:37:27-80
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:79:27-80
 category#android.intent.category.MULTIWINDOW_LAUNCHER
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:38:17-89
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:80:17-89
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:38:27-86
-activity#com.android2.calculator3.Preferences
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:9-155
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:80:27-86
+activity#com.gigabytedevelopersinc.app.calculator.Preferences
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:83:9-86:48
 	android:label
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:120-152
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:86:13-45
 	android:theme
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:71-119
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:85:13-61
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:41:19-70
-activity#com.android2.calculator3.About
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:9-146
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:84:13-40
+activity#com.gigabytedevelopersinc.app.calculator.About
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:87:9-90:45
 	android:label
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:114-143
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:90:13-42
 	android:theme
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:65-113
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:89:13-61
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:42:19-64
-activity#com.android2.calculator3.Help
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:9-144
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:88:13-34
+activity#com.gigabytedevelopersinc.app.calculator.Help
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:91:9-94:44
 	android:label
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:113-141
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:94:13-41
 	android:theme
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:64-112
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:93:13-61
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:43:19-63
-receiver#com.android2.calculator3.CalculatorWidget
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:44:9-49:20
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:92:13-33
+receiver#com.gigabytedevelopersinc.app.calculator.CalculatorWidget
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:96:9-103:20
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:44:19-75
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:96:19-51
 intent-filter#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:45:13-47:29
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:97:13-99:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:46:17-84
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:98:17-84
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:46:25-81
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:98:25-81
 meta-data#android.appwidget.provider
-ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:48:13-115
+ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:100:13-102:66
 	android:resource
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:48:66-112
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:102:17-63
 	android:name
-		ADDED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml:48:24-65
+		ADDED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml:101:17-58
 uses-sdk
-INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP_User\.android\build-cache\bd2df1ed2ff0a920f7e74085fc0f28c81c4a7964\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP_User\.android\build-cache\d515d80a485499ca1bb479db533748db05b47c07\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP_User\.android\build-cache\8cb8f4404457f15d28b3297d30a5ff207f64006c\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP_User\.android\build-cache\71a88c486f3eb34fd8d3ca340de54de2aeeacd71\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP_User\.android\build-cache\73565c40e63a0641fa8b4470456dc5548dac7265\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.1.0] C:\Users\Gigabyte\.android\build-cache\a485504c93b60789324260922d85b850db0e55bb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Gigabyte\.android\build-cache\24d43e95ac149454e30f7a2b2c68d394549c19f4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:aboutlibraries:5.8.5] C:\Users\Gigabyte\.android\build-cache\aee7ae1a9efde555676e8fb7754c0b29fdba9117\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\b9665ba12e11fadb1d47cce011a609d99ae83510\output\AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:iconics-core:2.8.0] C:\Users\Gigabyte\.android\build-cache\fc02b1101e45b4e93f39308f24d1cfb7a399950b\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.0.0] C:\Users\Gigabyte\.android\build-cache\3ce1dff5fbac71be7239fa203c068e95db3833ea\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv:material-ripple:1.0.2] C:\Users\Gigabyte\.android\build-cache\20c4dd2267705780243429debfbe4ef6f9884399\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:google-material-typeface:2.2.0.3.original] C:\Users\Gigabyte\.android\build-cache\f74ac0122cce59a5f9e5464d290e05ebfbdc96f5\output\AndroidManifest.xml:23:5-25:41
+MERGED from [cat.ereza:customactivityoncrash:1.5.0] C:\Users\Gigabyte\.android\build-cache\56bb96d1faaf8cfd68ed06bafa2dde5f470630c6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.0.2] C:\Users\Gigabyte\.android\build-cache\c8f722c02545ffe54f7d9e8a88c0691cfde3d627\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] C:\Users\Gigabyte\.android\build-cache\0b29a570b66156b39067858bf0794ce6d40ab671\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\155a2a53e05af5eb5517c83d5774bf286cada98e\output\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\Gigabyte\.android\build-cache\c8ee7da7c072aa24b3276ba022058c9a4e3b7cba\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\99591815dc2dd80843500c997f2cb64e41eaca07\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gigabyte\.android\build-cache\e29d979342c30750de0285e782daab358c8c5bca\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gigabyte\.android\build-cache\d4c3432bdb8519bdbacd8c8530cf4c3691dc201f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ads:11.4.0] C:\Users\Gigabyte\.android\build-cache\49a3318eda6512efe262ccfa4dac4c3b989ca6dc\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.4.0] C:\Users\Gigabyte\.android\build-cache\d27b2775abf8e4ed61a411e61ab7ac3ab878a916\output\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.0] C:\Users\Gigabyte\.android\build-cache\d3793af8da5b5d496110a9c44da6dae070a0f727\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.4.0] C:\Users\Gigabyte\.android\build-cache\50e131a6d3da9274785e8fbcaa48ee97089f7624\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\Gigabyte\.android\build-cache\52c2e33a83ac88cdb821f1f0aa6e1c02acc1b358\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Gigabyte\.android\build-cache\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gigabyte\.android\build-cache\25bb79e9f01dc0d27de36c9970b026cdaf4669d1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gigabyte\.android\build-cache\69222f67d911f4d07960b49a470763c1e09bec65\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gigabyte\.android\build-cache\3450cd37c1581b1f64eefea783358d9010d27b72\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gigabyte\.android\build-cache\dae7ddb758e8e0c4dee5d8845d10d30d75bdeea4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gigabyte\.android\build-cache\526fbbd62505e7eb2f3090695b0b037431329661\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gigabyte\.android\build-cache\b56039d39ee30ec284a6959dd1bf4773ca3a7591\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gigabyte\.android\build-cache\5c7476657e83c6751a787b814de0a91e2ec59e1a\output\AndroidManifest.xml:20:5-22:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Gigabyte\.android\build-cache\a485504c93b60789324260922d85b850db0e55bb\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP_User\AndroidStudioProjects\Projects\Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gigabyte\AndroidStudioProjects\Projects\CalcMate\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\HP_User\.android\build-cache\bd2df1ed2ff0a920f7e74085fc0f28c81c4a7964\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\HP_User\.android\build-cache\d515d80a485499ca1bb479db533748db05b47c07\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\HP_User\.android\build-cache\8cb8f4404457f15d28b3297d30a5ff207f64006c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\HP_User\.android\build-cache\71a88c486f3eb34fd8d3ca340de54de2aeeacd71\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\HP_User\.android\build-cache\73565c40e63a0641fa8b4470456dc5548dac7265\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:26.1.0] C:\Users\Gigabyte\.android\build-cache\a485504c93b60789324260922d85b850db0e55bb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Gigabyte\.android\build-cache\24d43e95ac149454e30f7a2b2c68d394549c19f4\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\b9665ba12e11fadb1d47cce011a609d99ae83510\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\155a2a53e05af5eb5517c83d5774bf286cada98e\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gigabyte\.android\build-cache\99591815dc2dd80843500c997f2cb64e41eaca07\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gigabyte\.android\build-cache\e29d979342c30750de0285e782daab358c8c5bca\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gigabyte\.android\build-cache\d4c3432bdb8519bdbacd8c8530cf4c3691dc201f\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gigabyte\.android\build-cache\25bb79e9f01dc0d27de36c9970b026cdaf4669d1\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gigabyte\.android\build-cache\69222f67d911f4d07960b49a470763c1e09bec65\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gigabyte\.android\build-cache\3450cd37c1581b1f64eefea783358d9010d27b72\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gigabyte\.android\build-cache\dae7ddb758e8e0c4dee5d8845d10d30d75bdeea4\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gigabyte\.android\build-cache\526fbbd62505e7eb2f3090695b0b037431329661\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gigabyte\.android\build-cache\b56039d39ee30ec284a6959dd1bf4773ca3a7591\output\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Gigabyte\.android\build-cache\a485504c93b60789324260922d85b850db0e55bb\output\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\HP_User\.android\build-cache\d5f2f3897fc6b43902e4959f7fdc708e5cd198a7\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Gigabyte\.android\build-cache\a485504c93b60789324260922d85b850db0e55bb\output\AndroidManifest.xml:27:13-51
+activity#com.mikepenz.aboutlibraries.ui.LibsActivity
+ADDED from [com.mikepenz:aboutlibraries:5.8.5] C:\Users\Gigabyte\.android\build-cache\aee7ae1a9efde555676e8fb7754c0b29fdba9117\output\AndroidManifest.xml:12:9-80
+	android:name
+		ADDED from [com.mikepenz:aboutlibraries:5.8.5] C:\Users\Gigabyte\.android\build-cache\aee7ae1a9efde555676e8fb7754c0b29fdba9117\output\AndroidManifest.xml:12:19-77
+activity#cat.ereza.customactivityoncrash.activity.DefaultErrorActivity
+ADDED from [cat.ereza:customactivityoncrash:1.5.0] C:\Users\Gigabyte\.android\build-cache\56bb96d1faaf8cfd68ed06bafa2dde5f470630c6\output\AndroidManifest.xml:27:9-30:65
+	android:process
+		ADDED from [cat.ereza:customactivityoncrash:1.5.0] C:\Users\Gigabyte\.android\build-cache\56bb96d1faaf8cfd68ed06bafa2dde5f470630c6\output\AndroidManifest.xml:29:13-46
+	android:theme
+		ADDED from [cat.ereza:customactivityoncrash:1.5.0] C:\Users\Gigabyte\.android\build-cache\56bb96d1faaf8cfd68ed06bafa2dde5f470630c6\output\AndroidManifest.xml:30:13-62
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:1.5.0] C:\Users\Gigabyte\.android\build-cache\56bb96d1faaf8cfd68ed06bafa2dde5f470630c6\output\AndroidManifest.xml:28:13-89
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.0] C:\Users\Gigabyte\.android\build-cache\a6d58d8213e00466d8ddce15e6740edc6ca9e996\output\AndroidManifest.xml:25:19-71
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.4.0] C:\Users\Gigabyte\.android\build-cache\04bf8c0dc2cd5a9033928c3d3ed43e7b4a1807d2\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.4.0] C:\Users\Gigabyte\.android\build-cache\dfced5e4b083841da0cbb22e60ad6c800d5d9a1e\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.0] C:\Users\Gigabyte\.android\build-cache\f703475ca9ac80b3844cfb25376f9db79c4e0b47\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.0] C:\Users\Gigabyte\.android\build-cache\9b8b515bbdd21314c744a57d291e4d84d51d302b\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Gigabyte\.android\build-cache\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Gigabyte\.android\build-cache\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\Gigabyte\.android\build-cache\0f6c15bf2818a8d5bfc20753f1b29b1e9976f924\output\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gigabyte\.android\build-cache\5c7476657e83c6751a787b814de0a91e2ec59e1a\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gigabyte\.android\build-cache\5c7476657e83c6751a787b814de0a91e2ec59e1a\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gigabyte\.android\build-cache\5c7476657e83c6751a787b814de0a91e2ec59e1a\output\AndroidManifest.xml:26:13-58

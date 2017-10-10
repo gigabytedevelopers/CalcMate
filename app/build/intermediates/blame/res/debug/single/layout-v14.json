@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\0b29a570b66156b39067858bf0794ce6d40ab671\\output\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\0b29a570b66156b39067858bf0794ce6d40ab671\\output\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gigabyte\\AndroidStudioProjects\\Projects\\CalcMate\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\Gigabyte\\.android\\build-cache\\0b29a570b66156b39067858bf0794ce6d40ab671\\output\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    }
+]

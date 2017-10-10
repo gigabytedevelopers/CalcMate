@@ -2,16 +2,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.gigabytedevelopersinc.app.calculator"
-    android:versionCode="1"
-    android:versionName="1.0"
+    android:versionCode="120"
+    android:versionName="1.2.0"
     android:installLocation="auto">
-	
+
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission
         android:name="android.permission.WAKE_LOCK"
         tools:node="remove" />
+
     <uses-feature
         android:name="android.hardware.touchscreen"
         android:required="false" />
@@ -19,33 +20,86 @@
         android:name="android.hardware.wifi"
         android:required="false" />
 
-    <application android:label="@string/app_name" android:icon="@mipmap/ic_launcher_calculator" android:allowBackup="true">
-        <uses-library android:required="false" android:name="com.sec.android.app.multiwindow" />
-        <meta-data android:name="com.sec.android.support.multiwindow" android:value="true" />
-        <meta-data android:name="com.sec.android.multiwindow.DEFAULT_SIZE_W" android:resource="@dimen/app_defaultsize_w" />
-        <meta-data android:name="com.sec.android.multiwindow.DEFAULT_SIZE_H" android:resource="@dimen/app_defaultsize_h" />
-        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_W" android:resource="@dimen/app_minimumsize_w" />
-        <meta-data android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H" android:resource="@dimen/app_minimumsize_h" />
-        <activity android:name="com.android2.calculator3.Calculator"
-                  android:theme="@style/Theme.Calculator"
-                  android:windowSoftInputMode="stateAlwaysVisible"
-                  android:exported="true" >
+    <application
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher_calculator"
+        android:allowBackup="true"
+        android:fullBackupContent="true">
+        <meta-data
+            android:name="asset_statements"
+            android:resource="@string/asset_statements" />
+        <uses-library
+            android:required="false"
+            android:name="com.sec.android.app.multiwindow" />
+
+        <meta-data
+            android:name="com.sec.android.support.multiwindow"
+            android:value="true" />
+        <meta-data
+            android:name="com.sec.android.multiwindow.DEFAULT_SIZE_W"
+            android:resource="@dimen/app_defaultsize_w" />
+        <meta-data
+            android:name="com.sec.android.multiwindow.DEFAULT_SIZE_H"
+            android:resource="@dimen/app_defaultsize_h" />
+        <meta-data
+            android:name="com.sec.android.multiwindow.MINIMUM_SIZE_W"
+            android:resource="@dimen/app_minimumsize_w" />
+        <meta-data
+            android:name="com.sec.android.multiwindow.MINIMUM_SIZE_H"
+            android:resource="@dimen/app_minimumsize_h" />
+
+        <activity
+            android:name=".Splash"
+            android:theme="@style/SplashTheme"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter android:label="@string/app_name" android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:scheme="http"
+                    android:host="gigabytedevelopersinc.com"
+                    android:pathPrefix="/apps" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Calculator"
+            android:theme="@style/Theme.Calculator"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan"
+            android:exported="true">
+            <intent-filter>
                 <category android:name="android.intent.category.APP_CALCULATOR" />
                 <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.android2.calculator3.Preferences" android:theme="@style/Theme.Settings.Calculator" android:label="@string/settings" />
-        <activity android:name="com.android2.calculator3.About" android:theme="@style/Theme.Settings.Calculator" android:label="@string/about" />
-        <activity android:name="com.android2.calculator3.Help" android:theme="@style/Theme.Settings.Calculator" android:label="@string/help" />
-        <receiver android:name="com.android2.calculator3.CalculatorWidget" >
+        <activity
+            android:name=".Preferences"
+            android:theme="@style/Theme.Settings.Calculator"
+            android:label="@string/settings" />
+        <activity
+            android:name=".About"
+            android:theme="@style/Theme.Settings.Calculator"
+            android:label="@string/about" />
+        <activity
+            android:name=".Help"
+            android:theme="@style/Theme.Settings.Calculator"
+            android:label="@string/help" />
+
+        <receiver android:name=".CalculatorWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/calculator_widget_info" />
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/calculator_widget_info" />
         </receiver>
     </application>
 </manifest> 

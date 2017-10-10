@@ -13,22 +13,22 @@
             android:minHeight="@dimen/min_display_height"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
-            <com.android2.calculator3.view.CalculatorDisplay
+            <com.gigabytedevelopersinc.app.calculator.view.CalculatorDisplay
                 android:id="@+id/display"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:layout_marginEnd="0dp"
                 maxDigits="@integer/max_digits">
-                <com.android2.calculator3.view.ScrollableDisplay
+                <com.gigabytedevelopersinc.app.calculator.view.ScrollableDisplay
                     style="@style/display_style"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />
-                <com.android2.calculator3.view.ScrollableDisplay
+                <com.gigabytedevelopersinc.app.calculator.view.ScrollableDisplay
                     style="@style/display_style"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />
-            </com.android2.calculator3.view.CalculatorDisplay>
+            </com.gigabytedevelopersinc.app.calculator.view.CalculatorDisplay>
             <!-- <ImageButton
                 android:id="@+id/overflow_menu"
                 android:layout_width="48dp"
@@ -41,7 +41,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent" >
-            <com.android2.calculator3.view.CalculatorViewPager
+            <com.gigabytedevelopersinc.app.calculator.view.CalculatorViewPager
                 android:id="@+id/panelswitch"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -69,7 +69,7 @@
                     android:layout_weight="1"
                     android:layout_height="@dimen/history_bar_height">
                     <!-- marginRight has to be 0 to catch border-touch -->
-                    <com.android2.calculator3.view.ColorButton
+                    <com.gigabytedevelopersinc.app.calculator.view.ColorButton
                         android:id="@+id/clear"
                         android:text="@string/clear"
                         android:layout_width="match_parent"
@@ -78,7 +78,7 @@
                         android:textSize="15sp"
                         style="@style/button_style" />
                     <!-- marginRight has to be 0 to catch border-touch -->
-                    <com.android2.calculator3.view.ColorButton
+                    <com.gigabytedevelopersinc.app.calculator.view.ColorButton
                         android:id="@+id/del"
                         android:text="@string/del"
                         android:layout_width="match_parent"
