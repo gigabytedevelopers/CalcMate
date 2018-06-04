@@ -16,22 +16,22 @@
             android:layout_height="wrap_content"
             android:background="@android:color/transparent"
             android:orientation="horizontal">
-            <com.android2.calculator3.view.CalculatorDisplay
+            <com.gigabytedevelopersinc.app.calculator.view.CalculatorDisplay
                 android:id="@+id/display"
                 android:layout_width="0dp"
                 android:layout_weight="1"
                 android:layout_height="match_parent"
                 maxDigits="@integer/max_digits">
-                <com.android2.calculator3.view.ScrollableDisplay
+                <com.gigabytedevelopersinc.app.calculator.view.ScrollableDisplay
                     style="@style/display_style"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />
-                <com.android2.calculator3.view.ScrollableDisplay
+                <com.gigabytedevelopersinc.app.calculator.view.ScrollableDisplay
                     style="@style/display_style"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />
 
-            </com.android2.calculator3.view.CalculatorDisplay>
+            </com.gigabytedevelopersinc.app.calculator.view.CalculatorDisplay>
             <ImageButton android:id="@+id/overflow_menu"
                 android:layout_width="48dip"
                 android:layout_height="match_parent"
@@ -81,7 +81,7 @@
                 android:orientation="horizontal"
                 android:layout_marginTop="@dimen/history_bar_height">
 
-                <com.android2.calculator3.view.CalculatorViewPager
+                <com.gigabytedevelopersinc.app.calculator.view.CalculatorViewPager
                      android:id="@+id/smallPanelswitch"
                      android:layout_width="0dip"
                      android:layout_height="match_parent"
@@ -89,7 +89,7 @@
                      android:layout_marginRight="@dimen/group_padding"
                      />
 
-                <com.android2.calculator3.view.CalculatorViewPager
+                <com.gigabytedevelopersinc.app.calculator.view.CalculatorViewPager
                      android:id="@+id/largePanelswitch"
                      android:layout_width="0dip"
                      android:layout_height="match_parent"

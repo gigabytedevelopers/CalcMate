@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+<changelog>
+    <release version="2.1.7" versionCode="129" date="February 21, 2018">
+        <change>Fixed issues experienced with ads.</change>
+        <change>Much more lighter User Interface.</change>
+        <change>Swift Calculations across the entire app.</change>
+        <change>Performance Improvements.</change>
+        <change>Other minor Bug fixes.</change>
+    </release>
+</changelog>
+</RelativeLayout>

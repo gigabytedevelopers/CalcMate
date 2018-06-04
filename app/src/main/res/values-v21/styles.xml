@@ -61,4 +61,9 @@
         <item name="android:colorAccent">@color/primary</item>
         <item name="android:textColor">@color/background</item>
     </style>
+
+    <style name="SplashTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark</item>
+    </style>
 </resources>

@@ -1,7 +1,0 @@
-#Sat Aug 19 21:32:50 WAT 2017
-base.0=C\:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9ea00ab7a5d4ab52ec099fb87b1c834bc7fd864f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5a007262522f3265077fabf37c2239669abd2baa\\classes.dex
-base.1=C\:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5a007262522f3265077fabf37c2239669abd2baa
-file.0=C\:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9ea00ab7a5d4ab52ec099fb87b1c834bc7fd864f\\classes.dex
