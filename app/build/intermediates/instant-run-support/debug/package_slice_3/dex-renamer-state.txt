@@ -1,4 +1,0 @@
-#Fri Aug 18 21:16:53 WAT 2017
-base.0=C\:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
-renamed.0=classes.dex
-file.0=C\:\\Users\\HP_User\\AndroidStudioProjects\\Projects\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

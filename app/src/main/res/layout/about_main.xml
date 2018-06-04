@@ -15,7 +15,7 @@
             android:maxLines="1"
             android:textSize="30sp"
             android:textStyle="normal|bold"
-            android:text="@string/app_name_version" />
+            android:text="@string/app_name" />
 
 
     <ScrollView

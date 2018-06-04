@@ -13,4 +13,7 @@
             android:summary="@string/application_copyright"
             android:key="ABOUT" /> -->
     </PreferenceCategory>
+    <PreferenceCategory
+        android:layout="@layout/ads_layout" >
+    </PreferenceCategory>
 </PreferenceScreen>

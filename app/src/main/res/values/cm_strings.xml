@@ -132,4 +132,126 @@
     <string name="matrix_panel_text">The Matrix Panel</string>
     <string name="hex_panel_text">The Hex Panel</string>
     <string name="graph_panel_text">The Graph Panel</string>
+
+    <string name="expression"> </string>
+    <string name="result">0</string>
+
+    <string name="MC">MC</string>
+    <string name="MR">MR</string>
+    <string name="Mplus">M+</string>
+    <string name="Mminus">M-</string>
+    <string name="MS">MS</string>
+    <string name="M">MY</string>
+    <string name="HIS">HIS</string>
+
+    <string name="no_memory">No Memory Yet!</string>
+    <string name="no_history">No History Yet!</string>
+    <string name="no_fav">No Favourites Yet!</string>
+    <string name="menu_delete">Delete</string>
+    <string name="delete">DEL</string>
+    <string name="clr">CLR</string>
+
+    <string name="CE">CE</string>
+    <string name="Clear">Clear</string>
+    <string name="backspace">&lt;-</string>
+    <string name="left">&lt;</string>
+    <string name="right">></string>
+
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="equals">=</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="hex_A">A</string>
+    <string name="hex_B">B</string>
+    <string name="hex_C">C</string>
+    <string name="hex_D">D</string>
+    <string name="hex_E">E</string>
+    <string name="hex_F">F</string>
+
+    <string name="AND">&amp;&amp;</string>
+    <string name="OR">||</string>
+    <string name="XOR">XOR</string>
+    <string name="NOT">NOT</string>
+
+    <string name="functions">FUNC</string>
+    <string name="constants">CONST</string>
+    <string name="memory">Mem.</string>
+    <string name="ascii">ASCII</string>
+    <string name="favourites">FAVS</string>
+    <string name="rates">Rates</string>
+    <string name="swap">SWAP</string>
+
+    <string name="deg">DEG</string>
+    <string name="rad">RAD</string>
+    <string name="grad">GRAD</string>
+
+    <string name="abs">abs</string>
+    <string name="ceil">ceil</string>
+
+    <string name="cosd">cos°</string>
+    <string name="sind">sin°</string>
+    <string name="tand">tan°</string>
+    <string name="acos">cos⁻¹</string>
+    <string name="asin">sin⁻¹</string>
+    <string name="atan">tan⁻¹</string>
+    <string name="abs2">abs\u00b2</string>
+    <string name="acosd">cos⁻¹°</string>
+    <string name="acosh">cosh⁻¹</string>
+    <string name="asind">sin⁻¹°</string>
+    <string name="asinh">sinh⁻¹</string>
+    <string name="atand">tan⁻¹°</string>
+    <string name="atanh">tanh⁻¹</string>
+    <string name="combinations">nCr</string>
+    <string name="conjugate">cnj</string>
+    <string name="gcd">gcd</string>
+    <string name="permutations">nPr</string>
+
+    <string name="cosh">cosh</string>
+    <string name="exp">exp</string>
+    <string name="floor">floor</string>
+    <string name="log">ln</string>
+    <string name="log10">log10</string>
+    <string name="log2">log2</string>
+    <string name="max">max</string>
+    <string name="min">min</string>
+    <string name="pow">pow</string>
+    <string name="random">random</string>
+    <string name="rint">rint</string>
+    <string name="round">round</string>
+    <string name="sinh">sinh</string>
+    <string name="tanh">tanh</string>
+    <string name="toDegrees">toDegrees</string>
+    <string name="toRadians">toRadians</string>
+
+    <string name="percent">%</string>
+    <string name="root">\u00b2\u221a</string>
+    <string name="square">x\u00b2</string>
+    <string name="reciprocal">1/x</string>
+
+    <string name="leftBracket">(</string>
+    <string name="rightBracket">)</string>
+    <string name="xPowern">x^n</string>
+    <string name="tenPowern">10^n</string>
+
+    <string name="taxPlus">tax+</string>
+    <string name="taxMinus">tax-</string>
+    <string name="markup">markup+</string>
+    <string name="discount">discount</string>
+
+    <string name="currency_name">Name</string>
+    <string name="hint">Enter value</string>
+    <string name="btn_refresh">REFRESH</string>
+    <string name="toast_update">Update currency</string>
+    <string name="no_data">No data</string>
 </resources>

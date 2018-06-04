@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/mainbackground">
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:mrl_rippleColor="@color/ripple"
+        app:mrl_rippleDelayClick="false"
+        app:mrl_rippleDuration="500"
+        app:mrl_rippleFadeDuration="1000"
+        app:mrl_rippleOverlay="true">
+
+        <Button
+            android:id="@+id/floating"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="BtnClick"
+            android:tag="text_color|primary_text,background|primary_color"
+            android:text="FLOATING CALCULATOR" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:mrl_rippleColor="@color/ripple"
+        app:mrl_rippleDelayClick="false"
+        app:mrl_rippleDuration="500"
+        app:mrl_rippleFadeDuration="1000"
+        app:mrl_rippleOverlay="true">
+
+        <Button
+            android:id="@+id/matgraph"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="BtnClick"
+            android:tag="text_color|secondary_text,background|accent_color"
+            android:text="MATRIX AND GRAPH" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:mrl_rippleColor="@color/ripple"
+        app:mrl_rippleDelayClick="false"
+        app:mrl_rippleDuration="500"
+        app:mrl_rippleFadeDuration="1000"
+        app:mrl_rippleOverlay="true">
+
+        <Button
+            android:id="@+id/settings"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="BtnClick"
+            android:tag="text_color|primary_text,background|primary_color"
+            android:text="SETTINGS AND THEME" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:mrl_rippleColor="@color/ripple"
+        app:mrl_rippleDelayClick="false"
+        app:mrl_rippleDuration="500"
+        app:mrl_rippleFadeDuration="1000"
+        app:mrl_rippleOverlay="true">
+
+        <Button
+            android:id="@+id/report"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="BtnClick"
+            android:tag="text_color|secondary_text,background|accent_color"
+            android:text="REPORT BUGS" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+
+    <com.balysv.materialripple.MaterialRippleLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:mrl_rippleColor="@color/ripple"
+        app:mrl_rippleDelayClick="false"
+        app:mrl_rippleDuration="500"
+        app:mrl_rippleFadeDuration="1000"
+        app:mrl_rippleOverlay="true">
+
+        <Button
+            android:id="@+id/about"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:onClick="BtnClick"
+            android:tag="text_color|primary_text,background|primary_color"
+            android:text="ABOUT" />
+    </com.balysv.materialripple.MaterialRippleLayout>
+</LinearLayout>
